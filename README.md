@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @PatternFinder
-- 👀 I’m interested in ML, DL and discovering unknown patterns in unassuming datapoints
-- 🌱 I’m currently learning how to efficiently implementing models to solve real world NLP and computer vision problems
-- 💞️ I’m looking to collaborate on anything! curiosity is as deadly to me as to any felines..
-- 📫 How to reach me: message me, love to chat about anything tech related!
+- 👋 Hi, I’m Roll20
+- 👀 I’m interested in Machine Learning and creative patterns
+- 🌱 I’m currently learning how to efficiently implement techstacks to solve real world NLP and computer vision problems
+- 💞️ I’m looking to collaborate on any interesting ML projects
+- 📫 How to reach me: message me, love to chat about anything tech related
 
 <!---
 PatternFinder/PatternFinder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
