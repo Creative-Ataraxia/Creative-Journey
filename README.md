@@ -1,8 +1,12 @@
-- 👋 Hi, I’m Roll20
-- 👀 I’m interested in Machine Learning and creative patterns
-- 🌱 I’m currently learning how to efficiently implement techstacks to solve real world NLP and computer vision problems
-- 💞️ I’m looking to collaborate on any interesting ML projects
-- 📫 How to reach me: message me, love to chat about anything tech related
+..Languages: Python, C, TypeScript
+..Database: mySQL, redis
+..FrameworK: Node.js
+..Libraries: Pytorch, Tensorflow, Numpy, Pandas, Scikit
+..Deployment: Docker
+..IDE: VS code, Vim
+
+
+
 
 <!---
 PatternFinder/PatternFinder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
