@@ -1,9 +1,14 @@
 ..Languages: Python, C, TypeScript
-..Database: mySQL, redis
-..FrameworK: Node.js
+
+..Databases: mySQL, redis
+
+..Frameworks: Node.js
+
 ..Libraries: Pytorch, Tensorflow, Numpy, Pandas, Scikit
+
 ..Deployment: Docker
-..IDE: VS code, Vim
+
+..IDEs: VS code, Vim
 
 
 
