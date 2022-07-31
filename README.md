@@ -18,9 +18,9 @@ Tech Skills
     * practical implementation of modern and GoF design patterns 
     * practical implementation of volatility-based decompositional system design
 
-==========
-Currently:
-==========
+=========
+Currently
+=========
 Looking for interesting open sourced projects to contribute to
 
 ============
