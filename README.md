@@ -1,6 +1,6 @@
 About Me
 ========
-* Graduated as a philosophy student in the States; Loved logic / research / coding as a hobby;
+* Graduated as a philosophy student in the States; Loved science / research / coding as a hobby;
 * Worked primarily an operations / business development role in the finance sector for about 10 years;
 * Wanted more fulfilling and meaningful work, dove into tech about 2.5 years ago;
 * Found myself be to truly happy when coding / working with tech, than when I'm wining & dining investors;
