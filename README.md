@@ -1,12 +1,11 @@
-========
 About Me
 ========
 * Graduated as a philosophy student in the States; Loved logic / research / coding as a hobby;
 * Worked primarily an operations / business development role in the finance sector for about 10 years;
-* Wanted more fulfilling and meaningful work, dived into tech about 2.5 years ago;
+* Wanted more fulfilling and meaningful work, dove into tech about 2.5 years ago;
 * Found myself be to truly happy when coding / working with tech, than when I'm wining & dining investors;
 
-===========
+
 Tech Skills
 ===========
 * Primary: Python; 
@@ -18,15 +17,15 @@ Tech Skills
     * practical implementation of modern and GoF design patterns 
     * practical implementation of volatility-based decompositional system design
 
-=========
+
 Currently
 =========
-Looking for interesting open sourced projects to contribute to
+* Looking for interesting open sourced projects to contribute to
 
-============
+
 Appreciation
 ============
-Thanks for visiting! Hope to have lots of fun coding with you and your team in the near future!
+* Thanks for visiting! Hope to have lots of fun coding with you and your team in the near future!
 
 
 
