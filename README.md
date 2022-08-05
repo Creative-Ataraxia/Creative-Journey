@@ -1,17 +1,16 @@
 About Me
 ========
-* Graduated as a philosophy student in the States; Loved science / research / coding as a hobby;
+* Graduated as a philosophy student in the States; Loved `science` / `research` / `coding` as a hobby;
 * Worked primarily an operations / business development role in the finance sector for about 10 years;
-* Wanted more fulfilling and meaningful work, dove into tech about 2.5 years ago;
+* Wanted more fulfilling and meaningful work, dove into tech when the pandemic started;
 * Found myself be to truly happy when coding / working with tech, than when I'm wining & dining investors;
 
 
 Tech Skills
 ===========
-* Primary: Python; 
-    * secondary: Java, C, Javascript;
-* Area of interest: Machine Learning; Primary Libraries: torch, numpy, pandas, scikit-learn;
-    * secondary: Tensorflow;
+* Primary: `Python`; 
+    * secondary: `Javascript`;
+* Area of interest: `Machine Learning`; Primary Libraries: `torch`, `numpy`, `pandas`, `tensorflow` `scikit-learn`;
 * Working on: 
     * around 1,000 leetcodes;
     * practical implementation of modern and GoF design patterns 
