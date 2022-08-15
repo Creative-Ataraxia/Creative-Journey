@@ -1,25 +1,35 @@
 About Me
 ========
-* Graduated as a philosophy student in the States; Loved `science` / `research` / `coding` as a hobby;
-* Worked primarily an operations / business development role in the finance sector for about 10 years;
-* Wanted more fulfilling and meaningful work, dove into tech when the pandemic started;
-* Found myself be to truly happy when coding / working with tech, than when I'm wining & dining investors;
+* Graduated as an Economic / Philosophy student (UMBC); Passionate about `science` / `research` / `coding`;
+* Worked in the finance sector for about 10 years; Raised over $500M in private equity offerings; Developed complex option strategy trading system;
+* Because I'm passionate about technology, decided to do a full transition into tech since the start of the pandemic;
 
 
 Tech Skills
 ===========
-* Primary: `Python`; 
-    * secondary: `Javascript`;
-* Area of interest: `Machine Learning`; Primary Libraries: `torch`, `numpy`, `pandas`, `tensorflow` `scikit-learn`;
-* Working on: 
-    * around 1,000 leetcodes;
-    * practical implementation of modern and GoF design patterns 
-    * practical implementation of volatility-based decompositional system design
+* Proficient: `Python`, `Javascript`
+    * Comfortable: `Java`, `SQL`, `HTML`, `CSS`
+* Area of interest: `Machine Learning`; `Data Engineering`; `Applied Domain Expertise`
+* Proficient Libraries: `torch`, `hypothesis`, `numpy`, `pandas`, `tensorflow` `scikit-learn`;
+* Other relevant info: 
+    * Currently solved 432 leetcode problems;
+    * Currently solved level 4 of the google foobar challenge; 
+    * Current holder of CFA2, Finra 62, 82 qualifications
+
+
+Proficient Roles
+================
+1. System design: Volatility-based decomposition
+2. Design patterns: Refactoring code base
+3. Data Cleaning, scrubbing, and engineering
+4. Design and deploy Deeping Learning models
+5. Authoring Modules / Functions for libraries / packages
+6. Using Hypothesis, writing smart test modules for code bases
 
 
 Currently
 =========
-* Looking for interesting open sourced projects to contribute to
+* Looking for interesting open sourced projects to contribute to, let me know if you need an extra set of hands and eyes for your project, happy to help!
 
 
 Appreciation
