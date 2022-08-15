@@ -5,6 +5,8 @@ About Me
 * Because I'm passionate about technology, decided to do a full transition into tech since the start of the pandemic;
 
 
+
+
 Tech Skills
 ===========
 * Proficient: `Python`, `Javascript`
@@ -17,6 +19,8 @@ Tech Skills
     * Current holder of CFA2, Finra 62, 82 qualifications
 
 
+
+
 Proficient Roles
 ================
 1. System design: Volatility-based decomposition
@@ -27,9 +31,13 @@ Proficient Roles
 6. Using Hypothesis, writing smart test modules for code bases
 
 
+
+
 Currently
 =========
 * Looking for interesting open sourced projects to contribute to, let me know if you need an extra set of hands and eyes for your project, happy to help!
+
+
 
 
 Appreciation
