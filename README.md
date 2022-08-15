@@ -1,7 +1,7 @@
 About Me
 ========
 * Graduated as an Economic / Philosophy student (UMBC); Passionate about `science` / `research` / `coding`;
-* Worked in the finance sector for about 10 years; Raised over $500M in private equity offerings; Developed complex option trading strategy system; Over 5 years of leading a team to build a product and process from the ground up;
+* Worked in the finance sector for about 10 years; Raised over $500M in private equity offerings; Developed complex option trading strategy system; Over 5 years of expereience leading a team to build a product and process from the ground up;
 * Because I'm passionate about technology, decided to do a full transition into tech since the start of the pandemic;
 
 
