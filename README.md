@@ -56,6 +56,10 @@
 <a href="https://www.linkedin.com/in/royma/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white?link=http://left&link=https://www.linkedin.com/in/royma/" height="35px"/></a>
 <a href="https://leetcode.cn/u/roy_m/"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black?link=http://left&link=https://leetcode.cn/u/roy_m/" height="35px"/></a>
 
+---
+
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=python-engineer&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 PatternFinder/PatternFinder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
