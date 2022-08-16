@@ -5,7 +5,7 @@
 * Graduated as a `Statistics` / `Economics` student (UMBC); Passionate about `science` / `research` / `coding`;
 * Worked in the finance sector for about 10 years; Raised over $500M in private equity offerings; Developed complex option trading strategy system; Over 5 years of expereience leading a team to build a product and process from the ground up;
 * Because I'm passionate about technology, decided to do a full transition into tech since the start of the pandemic;
-* Let me know what how I can contribute to your project: [Linkedin](https://www.linkedin.com/in/royma/); [Gmail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=cycla4@gmail.com&su=SUBJECT&body=BODY&tf=1)
+* Let me know what how I can contribute to your project: [Gmail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=cycla4@gmail.com&su=SUBJECT&body=BODY&tf=1); [Linkedin](https://www.linkedin.com/in/royma/);
 * Currently <b>Looking for interesting open sourced projects</b> to contribute to, let me know if you need an extra set of hands and eyes for your project, happy to help!
 
 
@@ -48,6 +48,9 @@
 * Thank you for visiting! Looking forward to have lots of fun coding with you and your team in the near future!
 
 
+### Let's link up
+<a href="https://www.linkedin.com/in/royma/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white?link=http://left&link=https://www.linkedin.com/in/royma/" height="35px"/></a>
+<a href="https://leetcode.cn/u/roy_m/"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black?link=http://left&link=https://leetcode.cn/u/roy_m/" height="35px"/></a>
 
 
 <!---
