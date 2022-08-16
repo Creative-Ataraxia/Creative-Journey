@@ -17,7 +17,7 @@
 * Proficient Libraries:  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" height="25px"/><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" height="25px"/><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" height="25px"/><img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" height="25px"/><img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" height="25px"/><img alt="Hypothesis" src="https://img.shields.io/badge/Hypothesis-323330?style=for-the-badge&logo=hypothesis&logoColor=white" height="25px"/><img alt="Scikit Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="25px"/>
 
 * Other relevant info: 
-    * Currently solved 432 <a href="https://leetcode.cn/u/roy_m/"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black?link=http://left&link=https://leetcode.cn/u/roy_m/" height="35px"/></a>
+    * Currently solved 432 <a href="https://leetcode.cn/u/roy_m/"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-323330?style=for-the-badge&logo=LeetCode&logoColor=white?link=http://left&link=https://leetcode.cn/u/roy_m/" height="25px"/></a>
     * Currently solved level 4 of the google foobar challenge;
 
 ---
