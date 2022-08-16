@@ -1,6 +1,7 @@
 ## Hi! Hope you're having a great day today <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 
+
 ### About Me
 <ul>
 	<li>A <img align="center" height="25px" alt="Statistics" src="https://img.shields.io/badge/Statistics-00457C?style=for-the-badge&logoColor=white" height="25px"/><img align="center" height="25px" alt="Economics" src="https://img.shields.io/badge/Economics-00457C?style=for-the-badge&logoColor=white" height="25px"/> student (UMBC); Passionate about <img align="center" height="25px" alt="Technology" src="https://img.shields.io/badge/Technology-00457C?style=for-the-badge&logoColor=white" height="25px"/><img align="center" height="25px" alt="Science" src="https://img.shields.io/badge/Science-00457C?style=for-the-badge&logoColor=white" height="25px"/><img align="center" height="25px" alt="Research" src="https://img.shields.io/badge/Research-00457C?style=for-the-badge&logoColor=white" height="25px"/></li>
@@ -13,13 +14,16 @@
 ---
 
 ### Tech Skills
-* Proficient:  <img alt="Python" src="https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB" height="25px"/><img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25px"/>
-    * Comfortable:  <img alt="Java" src="https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=white" height="25px"/><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="25px"/><img alt="git" src="https://img.shields.io/badge/-Git-323330?style=for-the-badge&logo=git&logoColor=white" height="25px"/><img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/><img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"  height="25px"/>
-* Proficient Libraries:  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" height="25px"/><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-323330?style=for-the-badge&logo=TensorFlow&logoColor=white" height="25px"/><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" height="25px"/><img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" height="25px"/><img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" height="25px"/><img alt="Hypothesis" src="https://img.shields.io/badge/Hypothesis-323330?style=for-the-badge&logo=hypothesis&logoColor=white" height="25px"/><img alt="Scikit Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="25px"/>
-
-* Other relevant info: 
-    * Currently solved 432  <a href="https://leetcode.cn/u/roy_m/"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-323330?style=for-the-badge&logo=LeetCode&logoColor=white?link=http://left&link=https://leetcode.cn/u/roy_m/" height="25px"/></a>
-    * Currently solved level 4 of the google foobar challenge;
+<ul>
+	<li>Proficient: <img align="center" height="25px" alt="Python" src="https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB" /><img align="center" height="25px" alt="Javascript" src="https://img.shields.io/badge/-JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></li>
+	<li>Comfortable: <img align="center" height="25px" alt="Java" src="https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=white" /><img align="center" height="25px" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /><img align="center" height="25px" alt="git" src="https://img.shields.io/badge/-Git-323330?style=for-the-badge&logo=git&logoColor=white" /><img align="center" height="25px" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><img align="center" height="25px" alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><img align="center" height="25px" alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"  /></li>
+	<li>Proficient Libraries: <img align="center" height="25px" alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" /><img align="center" height="25px" alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-323330?style=for-the-badge&logo=TensorFlow&logoColor=white" /><img align="center" height="25px" alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" /><img align="center" height="25px" alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /><img align="center" height="25px" alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /><img align="center" height="25px" alt="Hypothesis" src="https://img.shields.io/badge/Hypothesis-323330?style=for-the-badge&logo=hypothesis&logoColor=white" /><img align="center" height="25px" alt="Scikit Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></li>
+	<li>Other relevant info:</li>
+		<ul>
+			<li>Currently solved 432 <a href="https://leetcode.cn/u/roy_m/"><img align="center" height="25px" alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-323330?style=for-the-badge&logo=LeetCode&logoColor=white?link=http://left&link=https://leetcode.cn/u/roy_m/" /></a></li>
+			<li>Currently solved level 4 of the google foobar challenge;</li>
+	    	</ul>
+</ul>
 
 ---
 
