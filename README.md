@@ -8,6 +8,7 @@
 * [Linkedin](https://www.linkedin.com/in/royma/); [Gmail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=cycla4@gmail.com&su=SUBJECT&body=BODY&tf=1)
 * Currently Looking for interesting open sourced projects to contribute to, let me know if you need an extra set of hands and eyes for your project, happy to help!
 
+
 ### Tech Skills
 * Proficient: <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
     * Comfortable: `Java`, `SQL`, `HTML`, `CSS`
