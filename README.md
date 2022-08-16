@@ -1,28 +1,24 @@
-About Me
-========
+## HI! Hope you're having a great day today ❤️
+
+
+### About Me
 * Graduated as a `Statistics` / `Economics` student (UMBC); Passionate about `science` / `research` / `coding`;
 * Worked in the finance sector for about 10 years; Raised over $500M in private equity offerings; Developed complex option trading strategy system; Over 5 years of expereience leading a team to build a product and process from the ground up;
 * Because I'm passionate about technology, decided to do a full transition into tech since the start of the pandemic;
 * [Linkedin](https://www.linkedin.com/in/royma/); [Gmail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=cycla4@gmail.com&su=SUBJECT&body=BODY&tf=1)
+* Currently Looking for interesting open sourced projects to contribute to, let me know if you need an extra set of hands and eyes for your project, happy to help!
 
-
-
-Tech Skills
-===========
+### Tech Skills
 * Proficient: <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
     * Comfortable: `Java`, `SQL`, `HTML`, `CSS`
 * Area of interest: `Machine Learning`; `Data Engineering`; `Applied Domain Expertise`
 * Proficient Libraries: `torch`, `hypothesis`, `numpy`, `pandas`, `tensorflow` `scikit-learn`;
 * Other relevant info: 
     * Currently solved 432 leetcode problems;
-    * Currently solved level 4 of the google foobar challenge; 
-    * Current holder of CFA2, Finra 62, 82 qualifications
+    * Currently solved level 4 of the google foobar challenge;
 
 
-
-
-Proficient Roles
-================
+### Capable Roles
 1. System design: Volatility-based decomposition
 2. Design patterns: Refactoring code base
 3. Data Cleaning, scrubbing, and engineering
@@ -31,18 +27,24 @@ Proficient Roles
 6. Using Hypothesis, writing smart test modules for code bases
 
 
+### Other Skills
+* Languages for humans
+   * English (Native speaker)
+   * Mandarin (Native speaker)
+   * Japanese (Proficient user)
+   * Spanish (Took spanish for 2 years in high school 😊)
+* Chartered Financial Analyst (CFA) Level 2
+* Financial Industry Regulatory Authority Series 63, Series 82 liences holder
 
 
-Currently
-=========
-* Looking for interesting open sourced projects to contribute to, let me know if you need an extra set of hands and eyes for your project, happy to help!
+### Notable Professional Achievements:
+* Raised over $500M USD for private equity, private security offerings
+* Over 5 years experience of leading teams to build a product from the ground up
+* Cultivated strong relationships with US-China private equity / venture capitalist funds
 
 
-
-
-Appreciation
-============
-* Thanks for visiting! Hope to have lots of fun coding with you and your team in the near future!
+### Appreciation
+* Thanks for visiting! Looking forward to have lots of fun coding with you and your team in the near future!
 
 
 
