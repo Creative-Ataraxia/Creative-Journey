@@ -1,4 +1,4 @@
-## Hi! Hope you're having a great day today ☀️
+## Hi! Hope you're having a great day today <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 
 ### About Me
