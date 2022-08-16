@@ -5,7 +5,7 @@
 * Graduated as a `Statistics` / `Economics` student (UMBC); Passionate about `science` / `research` / `coding`;
 * Worked in the finance sector for about 10 years; Raised over $500M in private equity offerings; Developed complex option trading strategy system; Over 5 years of expereience leading a team to build a product and process from the ground up;
 * Because I'm passionate about technology, decided to do a full transition into tech since the start of the pandemic;
-* Let me know what how I can contribute to your project: [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20px"/>](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=cycla4@gmail.com&su=SUBJECT&body=BODY&tf=1); [Linkedin](https://www.linkedin.com/in/royma/);
+* Let me know what how I can contribute to your project: <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white?link=https://mail.google.com/mail/u/0/?view=cm&fs=1&to=cycla4@gmail.com&su=SUBJECT&body=BODY&tf=1" height="25px"/> <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white?link=http://left&link=https://www.linkedin.com/in/royma/" height="25px"/>
 * Currently <b>Looking for interesting open sourced projects</b> to contribute to, let me know if you need an extra set of hands and eyes for your project, happy to help!
 
 ---
