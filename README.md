@@ -14,7 +14,7 @@
 * Proficient: <img alt="Python" src="https://img.shields.io/badge/-Python-14354C?style=for-the-badge&logo=python&logoColor=3776AB" height="25px"/><img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25px"/>
     * Comfortable:
     <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=Java&logoColor=FC4C02" height="25px"/>
-    <img alt="SQL" src="https://img.shields.io/badge/-SQL-ED8B00?style=for-the-badge&logo=SQL&logoColor=white" height="25px"/>
+    <img alt="MySQL" src="https://img.shields.io/badge/-SQL-ED8B00?style=for-the-badge&logo=SQL&logoColor=white" height="25px"/>
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25px"/>
     
     <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
