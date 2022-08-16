@@ -9,7 +9,7 @@ About Me
 
 Tech Skills
 ===========
-* Proficient: `Python`, `Javascript`
+* Proficient:<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/> `Javascript`
     * Comfortable: `Java`, `SQL`, `HTML`, `CSS`
 * Area of interest: `Machine Learning`; `Data Engineering`; `Applied Domain Expertise`
 * Proficient Libraries: `torch`, `hypothesis`, `numpy`, `pandas`, `tensorflow` `scikit-learn`;
