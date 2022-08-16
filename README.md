@@ -10,7 +10,7 @@
 
 
 ### Tech Skills
-* Proficient: <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="30px"/><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white" height="30px"/>
+* Proficient: <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=F7DF1E" height="30px"/><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="30px"/>
     * Comfortable: `Java`, `SQL`, `HTML`, `CSS`
 * Area of interest: `Machine Learning`; `Data Engineering`; `Applied Domain Expertise`
 * Proficient Libraries: `torch`, `hypothesis`, `numpy`, `pandas`, `tensorflow` `scikit-learn`;
