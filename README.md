@@ -5,13 +5,13 @@
 * Graduated as a `Statistics` / `Economics` student (UMBC); Passionate about `science` / `research` / `coding`;
 * Worked in the finance sector for about 10 years; Raised over $500M in private equity offerings; Developed complex option trading strategy system; Over 5 years of expereience leading a team to build a product and process from the ground up;
 * Because I'm passionate about technology, decided to do a full transition into tech since the start of the pandemic;
-* Let me know what how I can contribute to your project: [Gmail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=cycla4@gmail.com&su=SUBJECT&body=BODY&tf=1); [Linkedin](https://www.linkedin.com/in/royma/);
+* Let me know what how I can contribute to your project: <img alt="Python" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"height="20px"/>[Gmail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=cycla4@gmail.com&su=SUBJECT&body=BODY&tf=1); [Linkedin](https://www.linkedin.com/in/royma/);
 * Currently <b>Looking for interesting open sourced projects</b> to contribute to, let me know if you need an extra set of hands and eyes for your project, happy to help!
 
 ---
 
 ### Tech Skills
-* Proficient: <img alt="Python" src="https://img.shields.io/badge/Python?style=for-the-badge&logo=python&logoColor=white" height="30px"/><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="30px"/>
+* Proficient: <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="30px"/><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="30px"/>
     * Comfortable: `Java`, `SQL`,
     
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
