@@ -7,14 +7,15 @@
 * Because I'm passionate about technology, decided to do a full transition into tech since the start of the pandemic;
 * Let me know what how I can contribute to your project: <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white?link=https://mail.google.com/mail/u/0/?view=cm&fs=1&to=cycla4@gmail.com&su=SUBJECT&body=BODY&tf=1" height="25px"/> <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white?link=http://left&link=https://www.linkedin.com/in/royma/" height="25px"/>
 * Currently <b>Looking for interesting open sourced projects</b> to contribute to, let me know if you need an extra set of hands and eyes for your project, happy to help!
+* Area of interest: `Machine Learning`; `Data Engineering`; `Applied Domain Expertise`
 
 ---
 
 ### Tech Skills
-* Proficient: <img alt="Python" src="https://img.shields.io/badge/-Python-14354C?style=for-the-badge&logo=python&logoColor=3776AB" height="25px"/><img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25px"/>
+* Proficient: <img alt="Python" src="https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB" height="25px"/><img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25px"/>
     * Comfortable: <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25px"/><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="25px"/><img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25px"/><img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/><img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"  height="25px"/>
-* Area of interest: `Machine Learning`; `Data Engineering`; `Applied Domain Expertise`
-* Proficient Libraries: `torch`, `hypothesis`, `numpy`, `pandas`, `tensorflow` `scikit-learn`;
+* Proficient Libraries:<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" height="25px"/><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" height="25px"/><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" height="25px"/><img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" height="25px"/><img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" height="25px"/><img alt="Hypothesis" src="https://img.shields.io/badge/Hypothesis-323330?style=for-the-badge&logo=hypothesis&logoColor=white" height="25px"/><img alt="Scikit Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="25px"/>
+
 * Other relevant info: 
     * Currently solved 432 leetcode problems;
     * Currently solved level 4 of the google foobar challenge;
