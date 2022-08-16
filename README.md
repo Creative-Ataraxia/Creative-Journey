@@ -1,4 +1,4 @@
-## HI! Hope you're having a great day today ❤️
+## Hi! Hope you're having a great day today ❤️
 
 
 ### About Me
