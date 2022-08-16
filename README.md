@@ -40,12 +40,12 @@
 
 ### Notable Professional Achievements:
 * Raised over $500M USD for private equity, private security offerings
-* Over 5 years experience of leading teams to build a product from the ground up
+* Over 5 years of experience leading teams to build a product from the ground up
 * Cultivated strong relationships with US-China private equity / venture capitalist funds
 
 
 ### Appreciation
-* Thanks for visiting! Looking forward to have lots of fun coding with you and your team in the near future!
+* Thank you for visiting! Looking forward to have lots of fun coding with you and your team in the near future!
 
 
 
