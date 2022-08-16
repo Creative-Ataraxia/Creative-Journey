@@ -5,7 +5,7 @@
 * Graduated as a `Statistics` / `Economics` student (UMBC); Passionate about `science` / `research` / `coding`;
 * Worked in the finance sector for about 10 years; Raised over $500M in private equity offerings; Developed complex option trading strategy system; Over 5 years of expereience leading a team to build a product and process from the ground up;
 * Because I'm passionate about technology, decided to do a full transition into tech since the start of the pandemic;
-* [Linkedin](https://www.linkedin.com/in/royma/); [Gmail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=cycla4@gmail.com&su=SUBJECT&body=BODY&tf=1)
+* Let me know what how I can contribute to your project: [Linkedin](https://www.linkedin.com/in/royma/); [Gmail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=cycla4@gmail.com&su=SUBJECT&body=BODY&tf=1)
 * Currently <b>Looking for interesting open sourced projects</b> to contribute to, let me know if you need an extra set of hands and eyes for your project, happy to help!
 
 
