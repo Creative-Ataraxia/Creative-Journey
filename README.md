@@ -3,11 +3,10 @@
 
 ### About Me
 * A  <img alt="Statistics" src="https://img.shields.io/badge/Statistics-00457C?style=for-the-badge&logoColor=white" height="25px"/>  <img alt="Economics" src="https://img.shields.io/badge/Economics-00457C?style=for-the-badge&logoColor=white" height="25px"/>  student (UMBC); Passionate about  <img alt="Technology" src="https://img.shields.io/badge/Technology-00457C?style=for-the-badge&logoColor=white" height="25px"/>  <img alt="Science" src="https://img.shields.io/badge/Science-00457C?style=for-the-badge&logoColor=white" height="25px"/>  <img alt="Research" src="https://img.shields.io/badge/Research-00457C?style=for-the-badge&logoColor=white" height="25px"/>
-* Worked in the finance sector for about 10 years; Raised over $500M in private equity offerings; Developed complex option trading strategy system; Over 5 years of expereience leading a team to build a product and process from the ground up;
-* Because I'm passionate about technology, decided to do a full transition into tech since the start of the pandemic;
+* Finance professional for over 10 years; Because I'm passionate about technology, finally made a full transition into tech at the start of the pandemic
 * Let me know what how I can contribute to your project:  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white?link=https://mail.google.com/mail/u/0/?view=cm&fs=1&to=cycla4@gmail.com&su=SUBJECT&body=BODY&tf=1" height="25px"/> <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white?link=http://left&link=https://www.linkedin.com/in/royma/" height="25px"/>
 * Currently <b>Looking for interesting open sourced projects</b> to contribute to, let me know if you need an extra set of hands and eyes for your project, happy to help!
-* Area of interest: `Machine Learning`; `Data Engineering`; `Applied Domain Expertise`
+* Area of interest:  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-00457C?style=for-the-badge&logoColor=white" height="25px"/><img alt="Data Engineering" src="https://img.shields.io/badge/Data%20Engineering-00457C?style=for-the-badge&logoColor=white" height="25px"/><img alt="Applied Domain Expertise" src="https://img.shields.io/badge/Applied%20Domain%20Expertise-00457C?style=for-the-badge&logoColor=white" height="25px"/>
 
 ---
 
@@ -46,6 +45,7 @@
 ### Notable Professional Achievements:
 * Raised over $500M USD for private equity, private security offerings
 * Over 5 years of experience leading teams to build a product from the ground up
+* Developed complex options trading strategy system
 * Cultivated strong relationships with US-China private equity / venture capitalist funds
 
 ---
