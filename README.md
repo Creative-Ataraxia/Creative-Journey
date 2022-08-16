@@ -8,6 +8,7 @@
 * Let me know what how I can contribute to your project: [Gmail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=cycla4@gmail.com&su=SUBJECT&body=BODY&tf=1); [Linkedin](https://www.linkedin.com/in/royma/);
 * Currently <b>Looking for interesting open sourced projects</b> to contribute to, let me know if you need an extra set of hands and eyes for your project, happy to help!
 
+---
 
 ### Tech Skills
 * Proficient: <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="30px"/><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="30px"/>
@@ -18,6 +19,7 @@
     * Currently solved 432 leetcode problems;
     * Currently solved level 4 of the google foobar challenge;
 
+---
 
 ### Capable Roles
 1. System design: Volatility-based decomposition
@@ -27,6 +29,7 @@
 5. Authoring Modules / Functions for libraries / packages
 6. Using Hypothesis, writing smart test modules for code bases
 
+---
 
 ### Other Skills
 * Languages for humans
@@ -37,16 +40,17 @@
 * Chartered Financial Analyst (CFA) Level 2
 * Financial Industry Regulatory Authority Series 63, Series 82 liences holder
 
+---
 
 ### Notable Professional Achievements:
 * Raised over $500M USD for private equity, private security offerings
 * Over 5 years of experience leading teams to build a product from the ground up
 * Cultivated strong relationships with US-China private equity / venture capitalist funds
 
+---
 
 ### Appreciation
 * Thank you for visiting! Looking forward to have lots of fun coding with you and your team in the near future!
-
 
 ### Let's link up
 <a href="https://www.linkedin.com/in/royma/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white?link=http://left&link=https://www.linkedin.com/in/royma/" height="35px"/></a>
