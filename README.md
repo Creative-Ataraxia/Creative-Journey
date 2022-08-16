@@ -58,7 +58,7 @@
 
 ---
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=python-engineer&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatternFinder&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
