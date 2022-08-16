@@ -11,7 +11,7 @@
 ---
 
 ### Tech Skills
-* Proficient: <img alt="Python" src="https://img.shields.io/badge/-Python-14354C?style=for-the-badge&logo=python&logoColor=3776AB" height="25px"/><img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25px"/>
+* Proficient: <img alt="Python" src="https://img.shields.io/badge/-Python-323330?style=for-the-badge&logo=python&logoColor=3776AB" height="25px"/><img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25px"/>
     * Comfortable:
     <img alt="SQL" src="https://img.shields.io/badge/-SQL-ED8B00?style=for-the-badge&logo=sql&logoColor=white" height="25px"/>
     <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25px"/>
