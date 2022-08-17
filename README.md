@@ -27,7 +27,7 @@
 
 ---
 
-### Capable Roles
+### Target Roles
 1. System design: Volatility-based decomposition
 2. Design patterns: Refactoring code base
 3. Data Cleaning, scrubbing, and engineering
