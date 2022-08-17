@@ -21,7 +21,7 @@
 	<li>Other relevant info:</li>
 		<ul>
 			<li>Currently solved 432 <a href="https://leetcode.cn/u/roy_m/"><img align="center" height="25px" alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-323330?style=for-the-badge&logo=LeetCode&logoColor=white?link=http://left&link=https://leetcode.cn/u/roy_m/" /></a></li>
-			<li>Currently solved level 4 of the google foobar challenge;</li>
+			<li>Currently solved level 3 of the google foobar challenge;</li>
 	    	</ul>
 </ul>
 
