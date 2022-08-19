@@ -8,7 +8,7 @@
 	<li>Finance professional for over 10 years; Passionate about technology, and finally made a full transition into tech at the start of the pandemic; followed mrdbourke's self-made <a href="https://www.mrdbourke.com/aimastersdegree/">master degree in CS/ML</a></li>
 	<li>Currently Looking for interesting open sourced projects to contribute to, let me know if you need an extra set of hands and eyes for your project, happy to help! <img align="center" height="25px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white?link=https://mail.google.com/mail/u/0/?view=cm&fs=1&to=cycla4@gmail.com&su=SUBJECT&body=BODY&tf=1" height="25px"/><img align="center" height="25px" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white?link=http://left&link=https://www.linkedin.com/in/royma/" height="25px"/></li>
 	<li>Area of interest: <img align="center" height="25px" alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-00457C?style=for-the-badge&logoColor=white" height="25px"/><img align="center" height="25px" alt="Data Engineering" src="https://img.shields.io/badge/Data%20Engineering-00457C?style=for-the-badge&logoColor=white" height="25px"/><img align="center" height="25px" alt="Applied Domain Expertise" src="https://img.shields.io/badge/Applied%20Domain%20Expertise-00457C?style=for-the-badge&logoColor=white" height="25px"/></li>
-	<li>Currently working on: <a href="https://github.com/unifyai/ivy">Ivy "Let's unify AI"</a>; Writing functions and test codes</li>
+	<li>Currently working on: <a href="https://github.com/unifyai/ivy">Ivy "Let's unify AI"</a></li>
 </ul>
 
 ---
