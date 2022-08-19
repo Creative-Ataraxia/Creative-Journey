@@ -49,7 +49,7 @@
 * Raised over $500M USD for private equity, private security offerings
 * Over 5 years of experience leading teams to build a product from the ground up
 * Developed complex options trading strategy system
-* Cultivated strong relationships with US-China private equity / venture capitalist funds
+* Cultivated strong relationships with US-China private equity / venture capital funds
 
 ---
 
