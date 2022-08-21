@@ -53,8 +53,7 @@
 
 ---
 
-### Appreciation
-#### Thank you for visiting! Looking forward to have lots of fun coding with you and your team in the near future!
+### Thank you for visiting! Looking forward to have lots of fun coding with you and your team in the near future!
 
 ### Let's link up
 <a href="https://www.linkedin.com/in/royma/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white?link=http://left&link=https://www.linkedin.com/in/royma/" height="35px"/></a>
