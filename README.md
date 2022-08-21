@@ -25,21 +25,21 @@
 ---
 
 ### Target Roles
-1. System design: Volatility-based decomposition
-2. Design patterns: Refactoring code base
-3. Data Cleaning, scrubbing, and engineering
-4. Design and deploy Deeping Learning models
-5. Authoring Modules / Functions for libraries / packages
-6. Using Hypothesis, writing smart test modules for code bases
+* System design: Volatility-based decomposition
+* Design patterns: Refactoring code base
+* Data Cleaning, scrubbing, and engineering
+* Design and deploy Deeping Learning models
+* Authoring Modules / Functions for libraries / packages
+* Using Hypothesis, writing smart test modules for code bases
 
 ---
 
 ### Other Skills
 * Languages for humans
-   * English (Native speaker)
-   * Mandarin (Native speaker)
-   * Japanese (Proficient user)
-   * Spanish (Took spanish for 2 years in high school 😊)
+ * English (Native speaker)
+ * Mandarin (Native speaker)
+ * Japanese (Proficient user)
+ * Spanish (Took spanish for 2 years in high school 😊)
 * Chartered Financial Analyst (CFA) Level 2
 * Financial Industry Regulatory Authority Series 63, Series 82 liences holder
 
@@ -54,7 +54,7 @@
 ---
 
 ### Appreciation
-* Thank you for visiting! Looking forward to have lots of fun coding with you and your team in the near future!
+#### Thank you for visiting! Looking forward to have lots of fun coding with you and your team in the near future!
 
 ### Let's link up
 <a href="https://www.linkedin.com/in/royma/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white?link=http://left&link=https://www.linkedin.com/in/royma/" height="35px"/></a>
