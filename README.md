@@ -62,7 +62,7 @@
 
 ---
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=PatternFinder&theme=dracula)](https://github.com/PatternFinder?tab=repositories)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PatternFinder&theme=dracula)
 
 
 <!---
