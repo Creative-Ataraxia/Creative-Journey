@@ -53,11 +53,11 @@
 
 ---
 
-### Thank you for visiting! Looking forward to have lots of fun coding with you and your team in the near future!
-
 ### Let's link up
 <a href="https://www.linkedin.com/in/royma/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white?link=http://left&link=https://www.linkedin.com/in/royma/" height="35px"/></a>
 <a href="https://leetcode.cn/u/roy_m/"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black?link=http://left&link=https://leetcode.cn/u/roy_m/" height="35px"/></a>
+
+### Thank you for visiting! Looking forward to have lots of fun coding with you and your team in the near future!
 
 ---
 
