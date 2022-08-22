@@ -35,10 +35,10 @@
 
 ### Other Skills
 * Languages for humans
- * English (Native speaker)
- * Mandarin (Native speaker)
- * Japanese (Proficient user)
- * Spanish (Took spanish for 2 years in high school 😊)
+  * English (Native speaker)
+  * Mandarin (Native speaker)
+  * Japanese (Proficient user)
+  * Spanish (Took spanish for 2 years in high school 😊)
 * Chartered Financial Analyst (CFA) Level 2
 * Financial Industry Regulatory Authority Series 63, Series 82 liences holder
 
