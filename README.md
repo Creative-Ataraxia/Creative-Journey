@@ -25,12 +25,11 @@
 ---
 
 ### Target Roles
-* System design: Volatility-based decomposition
-* Design patterns: Refactoring code base
-* Data Cleaning, scrubbing, and engineering
-* Design and deploy Deeping Learning models
-* Authoring Modules / Functions for libraries / packages
-* Using Hypothesis, writing smart test modules for code bases
+* Systems design; Volatility based decomposition; UML;
+* Design patterns; Refactoring code base;
+* Feature engineering, Data cleansing; Pandas, Sklearn;
+* Deploy ML/DL models from scratch; Torch, Tensorflow, Keras, Numpy;
+* Writing comprehensive test modules to detect edge cases; Hypothesis;
 
 ---
 
