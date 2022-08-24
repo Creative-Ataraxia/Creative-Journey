@@ -60,7 +60,7 @@
 ---![LeetCode stats]
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=PatternFinder&theme=dracula)](https://github.com/PatternFinder)
-[![Leetcode Stats](https://leetcard.jacoblin.cool/roy_m?width=500&height=195?site=cn)](https://leetcode.cn/u/roy_m)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/roy_m?site=cn&width=500&height=195)](https://leetcode.cn/u/roy_m)
 
 <!---
 PatternFinder/PatternFinder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
