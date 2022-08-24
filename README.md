@@ -57,10 +57,10 @@
 <a href="https://leetcode.cn/u/roy_m/"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black?link=http://left&link=https://leetcode.cn/u/roy_m/" height="35px"/></a>
 #### Thank you for visiting! Looking forward to have lots of fun coding with you and your team in the near future!
 
----
+---![LeetCode stats]
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=PatternFinder&theme=dracula)](https://github.com/PatternFinder)
-[![Leetcode Stats](https://leetcard.jacoblin.cool/roy_m?site=cn)](https://leetcode.cn/u/roy_m)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/roy_m?width=500&height=195?site=cn)](https://leetcode.cn/u/roy_m)
 
 <!---
 PatternFinder/PatternFinder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
