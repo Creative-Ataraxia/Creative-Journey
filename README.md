@@ -19,36 +19,37 @@
 	<li>Comfortable: <img align="center" height="25px" alt="Typescript" src="https://img.shields.io/badge/Typescript-1572B6?style=for-the-badge&logo=typescript&logoColor=white" /><img align="center" height="25px" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /><img align="center" height="25px" alt="Astro" src="https://img.shields.io/badge/Astro-DF6756?style=for-the-badge&logo=astro&logoColor=white" /><img align="center" height="25px" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><img align="center" height="25px" alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></li>
 	<li>Proficient Libraries: <img align="center" height="25px" alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" /><img align="center" height="25px" alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-323330?style=for-the-badge&logo=TensorFlow&logoColor=white" /><img align="center" height="25px" alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" /><img align="center" height="25px" alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /><img align="center" height="25px" alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /><img align="center" height="25px" alt="Hypothesis" src="https://img.shields.io/badge/Hypothesis-323330?style=for-the-badge&logo=hypothesis&logoColor=white" /><img align="center" height="25px" alt="Scikit Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /><img align="center" height="25px" alt="Matplotlib" src="https://img.shields.io/badge/matplotlib-777BB4?style=for-the-badge&logo=matplotlib&logoColor=white" /><img align="center" height="25px" alt="Ete3" src="https://img.shields.io/badge/ete3-005C84?style=for-the-badge&logo=mysql&logoColor=white" /><img align="center" height="25px" alt="Selenium" src="https://img.shields.io/badge/selenium-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></li>
 	<li>Persistently solving >= 3 leetcode problems per day; currently at around 500 <a href="https://leetcode.cn/u/roy_m/"><img align="center" height="25px" alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-323330?style=for-the-badge&logo=LeetCode&logoColor=white?link=http://left&link=https://leetcode.cn/u/roy_m/" /></a></li>
-	<li>Completed the google foobar challenge and the NP-like problems😄</li>
+	<li>Completed the google foobar challenge😄</li>
 </ul> 
 
 ---
 
 ### Target Roles
-* Systems design; Volatility based decomposition; UML;
-* Design patterns; Refactoring code base;
-* Feature engineering, Data cleansing; Pandas, Sklearn;
+* Systems design: Volatility based decomposition, scrum sprint; UML;
+* Design patterns: Refactoring code bases
+* Data/Feature engineering: Data cleansing; Pandas, Sklearn, Matplotlib, Ete3, Selenium;
 * Deploy ML/DL models from scratch; Torch, Tensorflow, Keras, Numpy;
-* Writing comprehensive test modules to detect edge cases; Hypothesis;
+* Writing comprehensive test modules: Hypothesis;
+* General backend SDE roles: deep comprehension of the Python language; Experience in Bash scripting and Git operations;
+* General frontend developer roles: Javascript, Markdown, Astro, HTML5, CSS3;
 
 ---
 
 ### Other Skills
-* Languages for humans
+* Human Languages:
   * English (Native speaker)
   * Mandarin (Native speaker)
   * Japanese (Proficient user)
-  * Spanish (Took spanish for 2 years in high school 😊)
 * Chartered Financial Analyst (CFA) Level 2
-* Financial Industry Regulatory Authority Series 63, Series 82 liences holder
+* Financial Industry Regulatory Authority Series 63, Series 82 licenses holder
 
 ---
 
 ### Notable Professional Achievements:
-* Raised over $500M USD for private equity, private security offerings
-* Over 5 years of experience leading teams to build a product from the ground up
-* Developed complex options trading strategy system
-* Cultivated strong relationships with US-China private equity / venture capital funds
+* Raised over $500M USD for private equities, private security offerings and venture funds
+* Over 5 years of experience leading teams to build products from the ground up
+* Developed and deployed a complex options trading strategy system
+* Cultivated strong relationships with US-China investment scenes / private equity / venture capital funds
 
 ---
 
