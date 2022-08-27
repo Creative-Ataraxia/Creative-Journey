@@ -61,7 +61,8 @@
 ---
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=PatternFinder&theme=dracula)](https://github.com/PatternFinder)
-[![Leetcode Stats](https://leetcard.jacoblin.cool/roy_m?site=cn&width=495&height=195&ext=heatmap)](https://leetcode.cn/u/roy_m)
+<br>
+[![Leetcode Stats](https://leetcard.jacoblin.cool/roy_m?site=cn&width=495&height=180&ext=heatmap)](https://leetcode.cn/u/roy_m)
 
 <!---
 unique_counter: 6
