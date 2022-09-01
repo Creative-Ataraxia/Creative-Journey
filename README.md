@@ -60,9 +60,10 @@
 
 ---
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=PatternFinder&theme=dracula)](https://github.com/PatternFinder)
-<br>
-[![Leetcode Stats](https://leetcard.jacoblin.cool/roy_m?site=cn&width=495&height=180&ext=heatmap)](https://leetcode.cn/u/roy_m)
+<h2 align="center">📊 Github Statistics 📊</h2>
+<p align="center"><img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=PatternFinder&theme=material-palenight" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=PatternFinder&layout=compact&hide=html&theme=jolly" /></p>
+<p align="center"><a href="https://leetcode.cn/u/roy_m"><img src="https://leetcard.jacoblin.cool/roy_m?site=cn&width=495&height=180&ext=heatmap" /></a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
 <!---
 unique_counter: 14
