@@ -1,4 +1,4 @@
-### Hi! I'm a creative coder; front end developer; guitar / drum player and language enthusiast
+### Hi! I'm a Creative developer; guitar, drum player; I speak English | 日本語 | 中文
 
 #### Lab Projects
 - [Landing Page - a study in shaders](https://creative-ataraxia.github.io/cyberpunk-sphere/)
