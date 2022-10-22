@@ -1,4 +1,4 @@
-### Hi! I'm a Creative developer; guitar, drum player; I speak English | 日本語 | 中文
+### Hi! I’m Roy, a philosophy student on a creative coding journey. I absolutely love learning new skills and using them to practically solve problems. Hope we can create together! English | 日本語 | 中文
 
 #### Lab Projects
 - [Landing Page - a study in shaders](https://creative-ataraxia.github.io/cyberpunk-sphere/)
