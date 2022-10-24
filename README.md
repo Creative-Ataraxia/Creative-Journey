@@ -2,7 +2,7 @@
 
 I absolutely love learning new skills and using them to practically solve problems. Hope we can create together! 
 
-Before becoming a creative frontend developer, Roy has worked in real estate investment funds, derivatives brokerages, industrial engineering firms and law firms.
+Before becoming a creative full stack developer, Roy has worked in real estate investment funds, derivatives brokerages, industrial engineering firms and law firms.
 
 Equipped with skills and experiences acquired from the financial, engineering, and legal industries; He formed a strong belief that: the principal life skill is the ability to learn efficiently and solve practical real-world problems.
 
