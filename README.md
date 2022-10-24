@@ -1,4 +1,4 @@
-### Hi! I’m Roy, a philosophy student on a creative coding journey. 
+### Hi👋! I’m Roy, a philosophy student on a creative coding journey. 
 
 I absolutely love learning new skills and using them to practically solve problems. Hope we can create together! 
 
