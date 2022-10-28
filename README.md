@@ -16,8 +16,9 @@ His other skill includes:
 
 
 #### Lab Projects
+- [A fun landing page](https://creative-ataraxia.github.io/vivid-landing-page/)
 - [My main portfolio website](https://creative-ataraxia.github.io)
-- [Landing Page - a study in shaders](https://creative-ataraxia.github.io/cyberpunk-sphere/)
+- [A shader element reactive to audio input](https://creative-ataraxia.github.io/cyberpunk-sphere/)
 - [A study in lights and shadows](https://creative-ataraxia.github.io/sci-fi-gear-display/)
 - [Birds flying over sunset](https://creative-ataraxia.github.io/birds-over-sunset/)
 
