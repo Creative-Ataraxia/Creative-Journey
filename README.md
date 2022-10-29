@@ -1,4 +1,4 @@
-### Hi👋! I’m Roy, a React Creative Developer. 
+## Hi👋! I’m Roy, a React Creative Developer. 
 
 I absolutely love learning new skills and using them to practically solve problems. Check out my [portfolio site](https://creative-ataraxia.github.io)! Hope we can create together! 
 
@@ -15,7 +15,7 @@ His other skill includes:
 -	Acute business acumen: Experience leading team to build products from scratch.
 
 
-#### Lab Projects
+## Lab Projects
 <a href="https://creative-ataraxia.github.io/vivid-landing-page/" rel='author' target='_blank'>
   <img src="https://creative-ataraxia.github.io/static/images/vivid_landing_page.png" width=50% height=50%>
 </a>
@@ -27,16 +27,21 @@ His other skill includes:
 
 ---
 
-
+<a href="https://creative-ataraxia.github.io/cyberpunk-sphere/" rel='author' target='_blank'>
+  <img src="https://creative-ataraxia.github.io/static/images/cyber_sphere.png" width=50% height=50%>
+</a>
 
 ---
-[A shader element reactive to audio input](https://creative-ataraxia.github.io/cyberpunk-sphere/)
----
-[A study in lights and shadows](https://creative-ataraxia.github.io/sci-fi-gear-display/)
----
-[Birds flying over sunset](https://creative-ataraxia.github.io/birds-over-sunset/)
 
+<a href="https://creative-ataraxia.github.io/sci-fi-gear-display/" rel='author' target='_blank'>
+  <img src="https://creative-ataraxia.github.io/static/images/helmet.png" width=50% height=50%>
+</a>
 
+---
+
+<a href="https://creative-ataraxia.github.io/birds-over-sunset/" rel='author' target='_blank'>
+  <img src="https://creative-ataraxia.github.io/static/images/birds_over_sunset.png" width=50% height=50%>
+</a>
 
 
 <!---
