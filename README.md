@@ -14,36 +14,27 @@ His other skill includes:
 -	Exceptionally self-driven; burning passion for learning new things and apply them to real-world problems.
 -	Acute business acumen: Experience leading team to build products from scratch.
 
-<br><br>
+<br>
 
 ## Lab Projects
+
+<div style="display:flex;">
 <a href="https://creative-ataraxia.github.io/vivid-landing-page/" rel='author' target='_blank'>
   <img src="https://creative-ataraxia.github.io/static/images/vivid_landing_page.png" width=35% height=35%>
 </a>
-
----
 <a href="https://creative-ataraxia.github.io/" rel='author' target='_blank'>
   <img src="https://creative-ataraxia.github.io/static/images/portfolio_site.png" width=35% height=35%>
 </a>
-
----
-
 <a href="https://creative-ataraxia.github.io/cyberpunk-sphere/" rel='author' target='_blank'>
   <img src="https://creative-ataraxia.github.io/static/images/cyber_sphere.png" width=35% height=35%>
 </a>
-
----
-
 <a href="https://creative-ataraxia.github.io/sci-fi-gear-display/" rel='author' target='_blank'>
   <img src="https://creative-ataraxia.github.io/static/images/helmet.png" width=35% height=35%>
 </a>
-
----
-
 <a href="https://creative-ataraxia.github.io/birds-over-sunset/" rel='author' target='_blank'>
   <img src="https://creative-ataraxia.github.io/static/images/birds_over_sunset.png" width=35% height=35%>
 </a>
-
+</div>
 
 <!---
 unique_counter: 96
