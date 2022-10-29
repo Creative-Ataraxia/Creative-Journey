@@ -1,6 +1,6 @@
 ### Hi👋! I’m Roy, a React Creative Developer. 
 
-I absolutely love learning new skills and using them to practically solve problems. Hope we can create together! 
+I absolutely love learning new skills and using them to practically solve problems. Check out my [portfolio site](https://creative-ataraxia.github.io)! Hope we can create together! 
 
 Before becoming a creative full stack developer, Roy has worked in real estate investment funds, derivatives brokerages, industrial engineering firms and law firms.
 
