@@ -18,7 +18,7 @@ His other skill includes:
 
 ## Lab Projects
 
-<div style="display:flex;">
+<div style="display:flex;gap:5%">
 <a href="https://creative-ataraxia.github.io/vivid-landing-page/" rel='author' target='_blank'>
   <img src="https://creative-ataraxia.github.io/static/images/vivid_landing_page.png" width=35% height=35%>
 </a>
