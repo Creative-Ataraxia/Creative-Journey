@@ -21,7 +21,14 @@ His other skill includes:
 </a>
 
 ---
-[My main portfolio website](https://creative-ataraxia.github.io)
+<a href="https://creative-ataraxia.github.io/" rel='author' target='_blank'>
+  <img src="https://creative-ataraxia.github.io/static/images/portfolio_site.png" width=50% height=50%>
+</a>
+
+---
+
+
+
 ---
 [A shader element reactive to audio input](https://creative-ataraxia.github.io/cyberpunk-sphere/)
 ---
