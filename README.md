@@ -16,11 +16,18 @@ His other skill includes:
 
 
 #### Lab Projects
-- [![A fun landing page](https://creative-ataraxia.github.io/static/images/vivid_landing_page.png)](https://creative-ataraxia.github.io/vivid-landing-page/)
-- [My main portfolio website](https://creative-ataraxia.github.io)
-- [A shader element reactive to audio input](https://creative-ataraxia.github.io/cyberpunk-sphere/)
-- [A study in lights and shadows](https://creative-ataraxia.github.io/sci-fi-gear-display/)
-- [Birds flying over sunset](https://creative-ataraxia.github.io/birds-over-sunset/)
+<a href="https://creative-ataraxia.github.io/vivid-landing-page/" rel='author' target='_blank'>
+  <img src="[https://i.imgur.com/ZWnhY9T.png](https://creative-ataraxia.github.io/static/images/vivid_landing_page.png)" width=50% height=50%>
+</a>
+---
+[My main portfolio website](https://creative-ataraxia.github.io)
+---
+[A shader element reactive to audio input](https://creative-ataraxia.github.io/cyberpunk-sphere/)
+---
+[A study in lights and shadows](https://creative-ataraxia.github.io/sci-fi-gear-display/)
+---
+[Birds flying over sunset](https://creative-ataraxia.github.io/birds-over-sunset/)
+
 
 
 
