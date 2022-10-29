@@ -1,4 +1,4 @@
-## Hi👋! I’m Roy, a React Creative Developer. 
+# Hi👋! I’m Roy, a React Creative Developer. 
 
 I absolutely love learning new skills and using them to practically solve problems. Check out my [portfolio site](https://creative-ataraxia.github.io)! Hope we can create together! 
 
@@ -14,6 +14,7 @@ His other skill includes:
 -	Exceptionally self-driven; burning passion for learning new things and apply them to real-world problems.
 -	Acute business acumen: Experience leading team to build products from scratch.
 
+<br><br>
 
 ## Lab Projects
 <a href="https://creative-ataraxia.github.io/vivid-landing-page/" rel='author' target='_blank'>
