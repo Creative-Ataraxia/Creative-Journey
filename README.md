@@ -22,6 +22,9 @@ His other skill includes:
 <a href="https://creative-ataraxia.github.io/vivid-landing-page/" rel='author' target='_blank'>
   <img src="https://creative-ataraxia.github.io/static/images/vivid_landing_page.png" width=35% height=35%>
 </a>
+<a href="https://creative-ataraxia.github.io/meet-the-team-page/" rel='author' target='_blank'>
+  <img src="https://creative-ataraxia.github.io/static/images/meet-the-team-page.png" width=35% height=35%>
+</a>
 <a href="https://creative-ataraxia.github.io/roy-portfolio-ception/" rel='author' target='_blank'>
   <img src="https://creative-ataraxia.github.io/static/images/portfolio-ception.png" width=35% height=35%>
 </a>
