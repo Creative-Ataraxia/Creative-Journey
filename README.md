@@ -4,15 +4,15 @@ I absolutely love learning new skills and using them to practically solve proble
 
 Before becoming a React Creative Web Developer, Roy has worked in real estate investment funds, derivatives brokerages, industrial engineering firms and law firms.
 
-Equipped with skills and experiences acquired from the financial, engineering, and legal industries; He formed a strong belief that: the principal life skill is the ability to learn efficiently and solve practical real-world problems.
+Equipped with skills and experiences acquired from the financial, engineering, and legal industries; He realized that the principal technical skill is learning itself.
 
-Armed with this conviction, he took a full dive into tech around the start of the pandemic and have since discovered his passion for creation through coding. His interests are diverse: from deep learning with Pandas and Pytorch, to frontend UX development with React and Typescript and 3D visual experiences with WebGL, three.js, shaders, and blender. He looks forward for working with like-minded teams to create something wonderous. 
+Armed with this conviction, he took a full dive into tech around the start of the pandemic and started coding full time. His interests are diverse: from 3D visual experiences with WebGL and WebXR, R3F, three.js, shaders, and blender, to frontend UX/UI development with React and Typescript and deep learning with Pandas and Pytorch;
 
-His other skill includes:
+His other skills include:
+-	Exceptionally self-driven, self-sufficent and disciplined; able to go from 0 to product independently.
 -	Native fluency in English and mandarin; conversational in Japanese
 -	FINRA 63, 82, CFA lv2 license holder.
--	Exceptionally self-driven; burning passion for learning new things and apply them to real-world problems.
--	Acute business acumen: Experience leading team to build products from scratch.
+-	Acute international business acumen; professional experience include raising over $350M for investment funds.
 
 <br>
 
