@@ -8,7 +8,13 @@ Equipped with skills and experiences acquired from the financial, engineering, a
 
 Armed with this conviction, he took a full dive into tech around the start of the pandemic and started coding full time. His interests are diverse: from 3D visual experiences with WebGL and WebXR, R3F, three.js, shaders, and blender, to frontend UX/UI development with React and Typescript and deep learning with Pandas and Pytorch;
 
-His other skills include:
+#### Tech skills:
+* Main Focus: WebGL, WebXR, Frontend Web Development;
+  - React, React-Three-Fiber, Three.js, GLSL, Blender;
+* Funtamental Skills:
+  - Javascript, Typescript, Git, Bash 
+
+#### His other skills include:
 -	Exceptionally self-driven, self-sufficent and disciplined; able to go from 0 to product independently.
 -	Native fluency in English and mandarin; conversational in Japanese
 -	FINRA 63, 82, CFA lv2 license holder.
