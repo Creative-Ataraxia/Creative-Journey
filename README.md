@@ -20,7 +20,7 @@ His other skill includes:
 
 <div style="display:flex;flex-direction:row;gap:1rem;">
 <a href="https://creative-ataraxia.github.io/dddance/" rel='author' target='_blank'>
-  <img src="https://creative-ataraxia.github.io/static/images/dddance.png" width=35% height=35%>
+  <img src="https://creative-ataraxia.github.io/images/1.png" width=35% height=35%>
 </a>
 <a href="https://creative-ataraxia.github.io/vivid-landing-page/" rel='author' target='_blank'>
   <img src="https://creative-ataraxia.github.io/static/images/vivid_landing_page.png" width=35% height=35%>
