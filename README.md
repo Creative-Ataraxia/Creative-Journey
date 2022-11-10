@@ -32,7 +32,7 @@ His other skill includes:
   <img src="https://creative-ataraxia.github.io/images/3.png" width=35% height=35%>
 </a>
 <a href="https://creative-ataraxia.github.io/" rel='author' target='_blank'>
-  <img src="https://creative-ataraxia.github.io/images/portfolio_site.png" width=35% height=35%>
+  <img src="https://creative-ataraxia.github.io/images/10.png" width=35% height=35%>
 </a>
 <a href="https://creative-ataraxia.github.io/get_schwifty_portal/" rel='author' target='_blank'>
   <img src="https://creative-ataraxia.github.io/images/5.png" width=35% height=35%>
