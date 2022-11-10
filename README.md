@@ -23,28 +23,28 @@ His other skill includes:
   <img src="https://creative-ataraxia.github.io/images/1.png" width=35% height=35%>
 </a>
 <a href="https://creative-ataraxia.github.io/vivid-landing-page/" rel='author' target='_blank'>
-  <img src="https://creative-ataraxia.github.io/static/images/vivid_landing_page.png" width=35% height=35%>
+  <img src="https://creative-ataraxia.github.io/images/2.png" width=35% height=35%>
 </a>
 <a href="https://creative-ataraxia.github.io/meet-the-team-page/" rel='author' target='_blank'>
-  <img src="https://creative-ataraxia.github.io/static/images/meet-the-team-page.png" width=35% height=35%>
+  <img src="https://creative-ataraxia.github.io/images/4.png" width=35% height=35%>
 </a>
 <a href="https://creative-ataraxia.github.io/roy-portfolio-ception/" rel='author' target='_blank'>
-  <img src="https://creative-ataraxia.github.io/static/images/portfolio-ception.png" width=35% height=35%>
+  <img src="https://creative-ataraxia.github.io/images/3.png" width=35% height=35%>
 </a>
 <a href="https://creative-ataraxia.github.io/" rel='author' target='_blank'>
-  <img src="https://creative-ataraxia.github.io/static/images/portfolio_site.png" width=35% height=35%>
+  <img src="https://creative-ataraxia.github.io/images/portfolio_site.png" width=35% height=35%>
 </a>
 <a href="https://creative-ataraxia.github.io/get_schwifty_portal/" rel='author' target='_blank'>
-  <img src="https://creative-ataraxia.github.io/static/images/portal.png" width=35% height=35%>
+  <img src="https://creative-ataraxia.github.io/images/5.png" width=35% height=35%>
 </a>
 <a href="https://creative-ataraxia.github.io/cyberpunk-sphere/" rel='author' target='_blank'>
-  <img src="https://creative-ataraxia.github.io/static/images/cyber_sphere.png" width=35% height=35%>
+  <img src="https://creative-ataraxia.github.io/images/6.png" width=35% height=35%>
 </a>
 <a href="https://creative-ataraxia.github.io/sci-fi-gear-display/" rel='author' target='_blank'>
-  <img src="https://creative-ataraxia.github.io/static/images/helmet.png" width=35% height=35%>
+  <img src="https://creative-ataraxia.github.io/images/7.png" width=35% height=35%>
 </a>
-<a href="https://creative-ataraxia.github.io/birds-over-sunset/" rel='author' target='_blank'>
-  <img src="https://creative-ataraxia.github.io/static/images/birds_over_sunset.png" width=35% height=35%>
+<a href="https://creative-ataraxia.github.io/legacy-portfolio-site/" rel='author' target='_blank'>
+  <img src="https://creative-ataraxia.github.io/images/9.png" width=35% height=35%>
 </a>
 </div>
 
