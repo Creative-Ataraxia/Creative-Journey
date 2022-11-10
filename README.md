@@ -23,7 +23,7 @@ Armed with this conviction, he took a full dive into tech around the start of th
 <br>
 
 <section id="lab">
-  <h2>Lab Projects</h2>
+  <h1>Lab Projects</h1>
 </section>
 
 <div style="display:flex;flex-direction:row;gap:1rem;">
