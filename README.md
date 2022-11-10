@@ -1,4 +1,4 @@
-# Hi👋! I’m Roy, React Creative Web Developer. 
+# Hi👋! I’m Roy, React Creative Web Developer, Great to meet you!👋
 
 I absolutely love learning new skills and using them to practically solve problems. Check out my [portfolio site](https://creative-ataraxia.github.io)! Hope we can create together! 
 
