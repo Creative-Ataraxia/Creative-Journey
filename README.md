@@ -19,32 +19,32 @@ His other skill includes:
 ## Lab Projects
 
 <div style="display:flex;flex-direction:row;gap:1rem;">
+<a href="https://creative-ataraxia.github.io/" rel='author' target='_blank'>
+  <img src="https://creative-ataraxia.github.io/social/new_portfolio.png" width=35% height=35%>
+</a>
 <a href="https://creative-ataraxia.github.io/dddance/" rel='author' target='_blank'>
-  <img src="https://creative-ataraxia.github.io/images/1.png" width=35% height=35%>
+  <img src="https://creative-ataraxia.github.io/social/dddance.png" width=35% height=35%>
 </a>
 <a href="https://creative-ataraxia.github.io/vivid-landing-page/" rel='author' target='_blank'>
-  <img src="https://creative-ataraxia.github.io/images/2.png" width=35% height=35%>
+  <img src="https://creative-ataraxia.github.io/social/vivid_landing_page.png" width=35% height=35%>
 </a>
 <a href="https://creative-ataraxia.github.io/meet-the-team-page/" rel='author' target='_blank'>
-  <img src="https://creative-ataraxia.github.io/images/4.png" width=35% height=35%>
+  <img src="https://creative-ataraxia.github.io/social/meet-the-team-page.png" width=35% height=35%>
 </a>
 <a href="https://creative-ataraxia.github.io/roy-portfolio-ception/" rel='author' target='_blank'>
-  <img src="https://creative-ataraxia.github.io/images/3.png" width=35% height=35%>
-</a>
-<a href="https://creative-ataraxia.github.io/" rel='author' target='_blank'>
-  <img src="https://creative-ataraxia.github.io/images/10.png" width=35% height=35%>
-</a>
-<a href="https://creative-ataraxia.github.io/get_schwifty_portal/" rel='author' target='_blank'>
-  <img src="https://creative-ataraxia.github.io/images/5.png" width=35% height=35%>
-</a>
-<a href="https://creative-ataraxia.github.io/cyberpunk-sphere/" rel='author' target='_blank'>
-  <img src="https://creative-ataraxia.github.io/images/6.png" width=35% height=35%>
-</a>
-<a href="https://creative-ataraxia.github.io/sci-fi-gear-display/" rel='author' target='_blank'>
-  <img src="https://creative-ataraxia.github.io/images/7.png" width=35% height=35%>
+  <img src="https://creative-ataraxia.github.io/social/portfolio-ception.png" width=35% height=35%>
 </a>
 <a href="https://creative-ataraxia.github.io/legacy-portfolio-site/" rel='author' target='_blank'>
-  <img src="https://creative-ataraxia.github.io/images/9.png" width=35% height=35%>
+  <img src="https://creative-ataraxia.github.io/social/legacy_portfolio.png" width=35% height=35%>
+</a>
+<a href="https://creative-ataraxia.github.io/get_schwifty_portal/" rel='author' target='_blank'>
+  <img src="https://creative-ataraxia.github.io/social/portal.png" width=35% height=35%>
+</a>
+<a href="https://creative-ataraxia.github.io/cyberpunk-sphere/" rel='author' target='_blank'>
+  <img src="https://creative-ataraxia.github.io/social/cyber_sphere.png" width=35% height=35%>
+</a>
+<a href="https://creative-ataraxia.github.io/sci-fi-gear-display/" rel='author' target='_blank'>
+  <img src="https://creative-ataraxia.github.io/social/helmet.png" width=35% height=35%>
 </a>
 </div>
 
