@@ -1,6 +1,6 @@
 # Hi👋! I’m Roy, React Creative Web Developer, Great to meet you!👋
 
-I absolutely love learning new skills and using them to practically solve problems. Check out my [portfolio site](https://creative-ataraxia.github.io)! Hope we can create together! 
+I absolutely love learning new skills and using them to practically solve problems. Check out my [portfolio site](https://creative-ataraxia.github.io) and my <a href="#lab">lab projects</a>! Hope we can create together!
 
 Before becoming a React Creative Web Developer, Roy has worked in real estate investment funds, derivatives brokerages, industrial engineering firms and law firms.
 
@@ -16,7 +16,9 @@ His other skills include:
 
 <br>
 
-## Lab Projects
+<section id="lab">
+  <h2>Lab Projects</h2>
+</section>
 
 <div style="display:flex;flex-direction:row;gap:1rem;">
 <a href="https://creative-ataraxia.github.io/" rel='author' target='_blank'>
