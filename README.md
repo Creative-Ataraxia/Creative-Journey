@@ -16,7 +16,7 @@ Armed with this conviction, he took a full dive into tech around the start of th
 
 #### His other skills include:
 -	Exceptionally self-driven, self-sufficent and disciplined; able to go from 0 to product independently.
--	Native fluency in English and mandarin; conversational in Japanese
+-	Native fluency in English and Mandarin; conversational in Japanese
 -	FINRA 63, 82, CFA lv2 license holder.
 -	Acute international business acumen; professional experience include raising over $350M for investment funds.
 
