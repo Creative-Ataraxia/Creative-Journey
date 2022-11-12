@@ -2,15 +2,15 @@
 
 I absolutely love learning new skills and using them to practically solve problems. Check out my [portfolio site](https://creative-ataraxia.github.io) and my <a href="#lab">lab projects</a>! Hope we can create together!
 
-Before becoming a React Creative Web Developer, Roy has worked in real estate investment funds, derivatives brokerages, industrial engineering firms and law firms.
+Before becoming a React Creative Web Developer, Roy has worked in investments, derivatives and industrial engineering industries.
 
-Equipped with skills and experiences acquired from the financial, engineering, and legal industries; He realized that the principal technical skill is learning itself.
-
-Armed with this conviction, he took a full dive into tech around the start of the pandemic and started coding full time. His interests are diverse: from 3D visual experiences with WebGL and WebXR, R3F, three.js, shaders, and blender, to frontend UX/UI development with React and Typescript and deep learning with Pandas and Pytorch;
+His proficiencies are diverse: from 3D visual experiences with WebGL and WebXR, R3F, three.js, shaders, and blender, to frontend UX/UI development with React, Vue and Typescript and deep learning with Python, Pandas and Pytorch;
 
 #### Tech skills:
-* Main Focus: WebGL, WebXR, Frontend Web Development;
-  - React, React-Three-Fiber, Three.js, GLSL, Blender;
+* Main Roles: 
+  - WebGL, WebXR, Frontend Web Development;
+* Main Stacks
+  - React, Vue, React-Three-Fiber, Three.js, GLSL, Blender;
 * Funtamental Skills:
   - Javascript, Typescript, Git, Bash 
 
