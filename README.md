@@ -1,26 +1,10 @@
-# Hi👋! I’m Roy, React Creative Web Developer, Great to meet you!👋
+# Hi👋! I’m Roy, React Creative Web Developer, nice to meet you!👋
 
-I absolutely love learning new skills and using them to practically solve problems. Check out my [portfolio site](https://creative-ataraxia.github.io) and my <a href="#lab">lab projects</a>! Hope we can create together!
+My main stacks are Blender, React, R3F, Threejs; I love creating new 3D experiences! Check out my [portfolio site](https://creative-ataraxia.github.io) and my <a href="#lab">lab projects</a>! Hope we can create together!
 
-Before becoming a React Creative Web Developer, Roy has worked in investments, derivatives and industrial engineering industries.
-
-His proficiencies are diverse: from 3D visual experiences with WebGL and WebXR, R3F, three.js, shaders, and blender, to frontend UX/UI development with React, Vue and Typescript and deep learning with Python, Pandas and Pytorch;
-
-#### Tech skills:
-* Main Roles: 
-  - WebGL, WebXR, Frontend Web Development;
-* Main Stacks
-  - React, Vue, React-Three-Fiber, Three.js, GLSL, Blender;
-* Funtamental Skills:
-  - Javascript, Typescript, Git, Bash 
-
-#### His other skills include:
--	Exceptionally self-driven, self-sufficent and disciplined; able to go from 0 to product independently.
+#### some other things I know:
 -	Native fluency in English and Mandarin; conversational in Japanese
 -	FINRA 63, 82, CFA lv2 license holder.
--	Acute international business acumen; professional experience include raising over $350M for investment funds.
-
-<br>
 
 <section id="lab">
   <h1>Lab Projects</h1>
