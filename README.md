@@ -12,7 +12,10 @@ My main stacks are Blender, React, R3F, Threejs; I love creating new 3D experien
 
 <div style="display:flex;flex-direction:row;gap:1rem;">
 <a href="https://creative-ataraxia.github.io/" rel='author' target='_blank'>
-  <img src="https://creative-ataraxia.github.io/social/new_portfolio.png" width=35% height=35% alt="Portfolio">
+  <img src="https://creative-ataraxia.github.io/social/the-room.jpg" width=35% height=35% alt="Roy's Portfolio Room">
+</a>
+<a href="https://creative-ataraxia.github.io/" rel='author' target='_blank'>
+  <img src="https://creative-ataraxia.github.io/social/new_portfolio.png" width=35% height=35% alt="Scroll Portfolio">
 </a>
 <a href="https://creative-ataraxia.github.io/dddance/" rel='author' target='_blank'>
   <img src="https://creative-ataraxia.github.io/social/dddance.png" width=35% height=35% alt="Dance! Lights!">
