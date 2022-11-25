@@ -31,9 +31,6 @@ My main stacks are Blender, React, R3F, Threejs; I love creating new 3D experien
   <a href="https://creative-ataraxia.github.io/" rel='author' target='_blank'>
     <img src="https://creative-ataraxia.github.io/images/the-room.jpg" width=35% height=35% alt="Roy's Portfolio Room">
   </a>
-  <a href="https://creative-ataraxia.github.io/" rel='author' target='_blank'>
-    <img src="https://creative-ataraxia.github.io/images/new_portfolio.png" width=35% height=35% alt="Scroll Portfolio">
-  </a>
   <a href="https://creative-ataraxia.github.io/dddance/" rel='author' target='_blank'>
     <img src="https://creative-ataraxia.github.io/images/dddance.png" width=35% height=35% alt="Dance! Lights!">
   </a>
@@ -60,6 +57,9 @@ My main stacks are Blender, React, R3F, Threejs; I love creating new 3D experien
   </a>
   <a href="https://creative-ataraxia.github.io/birds-over-sunset/" rel='author' target='_blank'>
     <img src="https://creative-ataraxia.github.io/images/birds_over_sunset.png" width=35% height=35% alt="Birds over Sunset">
+  </a>
+  <a href="https://creative-ataraxia.github.io/" rel='author' target='_blank'>
+    <img src="https://creative-ataraxia.github.io/images/new_portfolio.png" width=35% height=35% alt="Scroll Portfolio">
   </a>
 </div>
 
