@@ -8,7 +8,7 @@ My main stacks are Blender, React, R3F, Threejs; I love creating new 3D experien
 
 <a href="https://creative-ataraxia.github.io/images/social/ROY_MA_Resume_2022_thanksgiving_edition.pdf" rel='author' target='_blank'>Click here for my resume</a>
   
-
+<section id="lab"></section>
 <section id="blender">
   <h2>Blender Projects</h2>
 </section>
