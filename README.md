@@ -6,6 +6,9 @@ My main stacks are Blender, React, R3F, Threejs; I love creating new 3D experien
 -	Native fluency in English and Mandarin; conversational in Japanese
 -	FINRA 63, 82, CFA lv2 license holder.
 
+<a href="https://creative-ataraxia.github.io/images/social/ROY_MA_Resume_2022_thanksgiving_edition.pdf" rel='author' target='_blank'>Click here for my resume</a>
+  
+
 <section id="blender">
   <h2>Blender Projects</h2>
 </section>
@@ -19,6 +22,7 @@ My main stacks are Blender, React, R3F, Threejs; I love creating new 3D experien
   </a>
 </div>
 
+<br>
 <section id="threejs">
   <h2>Threejs Projects</h2>
 </section>
