@@ -12,13 +12,13 @@ My main stacks are Blender, React, R3F, Threejs; I love creating new 3D experien
 
 <div style="display:flex;flex-direction:row;gap:1rem;">
   <a href="https://creative-ataraxia.github.io/videos/Donut_Render1_compressed.mp4" rel='author' target='_blank'>
-    <img src="https://creative-ataraxia.github.io/images/donut.jpg" width=30% height=30% alt="donut">
+    <img src="https://creative-ataraxia.github.io/images/donut.jpg" width=25% height=25% alt="donut">
   </a>
   <a href="https://creative-ataraxia.github.io/videos/Metal_Button_Render1_compressed.mp4" rel='author' target='_blank'>
     <img src="https://creative-ataraxia.github.io/images/metal.png" width=20% height=20% alt="metal shader">
   </a>
-  <img src="https://creative-ataraxia.github.io/images/USA.png" width=40% height=40% alt="earth">
-  <img src="https://creative-ataraxia.github.io/images/USA2.png" width=40% height=40% alt="earth">
+  <img src="https://github.com/Creative-Ataraxia/Creative-Ataraxia.github.io/blob/the-room/images/USA.png" width=40% height=40% alt="earth">
+  <img src="https://github.com/Creative-Ataraxia/Creative-Ataraxia.github.io/blob/the-room/images/USA2.png" width=40% height=40% alt="earth">
 </div>
 
 <section id="threejs">
