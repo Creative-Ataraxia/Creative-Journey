@@ -1,8 +1,11 @@
-# Hi👋! I’m Roy, React Creative Web Developer, nice to meet you!👋
+# Hi there👋! I'm Roy, React Creative Developer; nice to meet you!👋
+- I have a strong background in frontend development and a passion for creating engaging VFX visual experiences. My main stacks: <i>Blender, React, R3F, Threejs</i>; Check out my [portfolio site](https://creative-ataraxia.github.io) and my <a href="#lab">lab projects</a>;
 
-My main stacks are Blender, React, R3F, Threejs; I love creating new 3D experiences! Check out my [portfolio site](https://creative-ataraxia.github.io) and my <a href="#lab">lab projects</a>! Hope we can create together!
+- I have experience developing, maintaining dynamic and responsive webapps using React and Blender. I also have experience in collaborating with design teams to create engaging UIs that 'Pop!'. I'm always looking for ways to improve the performance and UX of the apps I work on.
 
-#### some other things I know:
+- In my free time, I enjoy integrating new techs into my stack, and staying at the cutting edge of the frontend and VFX industry. I am passionate about continuing to learn and grow as a React VFX Creative Dev, my dream is to create a full featured 'out of this world' VFX film one day.
+
+#### human languages and math skills:
 -	Native fluency in English and Mandarin; conversational in Japanese
 -	FINRA 63, 82, CFA lv2 license holder.
 
@@ -12,15 +15,7 @@ My main stacks are Blender, React, R3F, Threejs; I love creating new 3D experien
 <section id="blender">
   <h2>Blender Projects</h2>
 </section>
-
-<div style="display:flex;flex-direction:row;gap:1.5rem;">
-  <a href="https://creative-ataraxia.github.io/videos/Donut_Render1_compressed.mp4" rel='author' target='_blank'>
-    <img src="https://creative-ataraxia.github.io/images/donut.jpg" width=26.5% height=26.5% alt="donut">
-  </a>
-  <a href="https://creative-ataraxia.github.io/videos/Metal_Button_Render1_compressed.mp4" rel='author' target='_blank'>
-    <img src="https://creative-ataraxia.github.io/images/metal.png" width=20% height=20% alt="metal shader">
-  </a>
-</div>
+<h3>Please visit my ArtStation portfolio here</h3>
 
 <br>
 <section id="threejs">
