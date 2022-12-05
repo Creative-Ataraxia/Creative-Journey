@@ -10,6 +10,8 @@
 -	FINRA 63, 82, CFA lv2 license holder.
 
 Click<a href="https://creative-ataraxia.github.io/images/social/ROY_MA_Resume_2022_thanksgiving_edition.pdf" rel='author' target='_blank'> here </a>for my resume
+Click<a href="https://leetcode.cn/u/roy_m/" rel='author' target='_blank'> here </a>for my leetcode.cn profile
+Click<a href="https://leetcode.com/Roy_M/" rel='author' target='_blank'> here </a>for my leetcode.com profile
 <br>
 <br>
 <section id="lab"></section>
