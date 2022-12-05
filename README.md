@@ -10,13 +10,13 @@
 -	FINRA 63, 82, CFA lv2 license holder.
 
 <a href="https://creative-ataraxia.github.io/images/social/ROY_MA_Resume_2022_thanksgiving_edition.pdf" rel='author' target='_blank'>Click here for my resume</a>
-  
+<br>
+<br>
 <section id="lab"></section>
 <section id="blender">
   <h2>Blender Projects</h2>
 </section>
 <h3>Please visit my ArtStation portfolio here</h3>
-<br>
 <br>
 <section id="threejs">
   <h2>Threejs Projects</h2>
