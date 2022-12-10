@@ -19,7 +19,7 @@ Click<a href="https://leetcode.com/Roy_M/" rel='author' target='_blank'> here </
   <h2>Blender Projects</h2>
 </section>
 
-- <h3>Please visit my ArtStation portfolio <a href="https://www.artstation.com/creative_ataraxia" rel='author' target='_blank'>here</a></h3>
+- <h3>Check out my portfolio on <a href="https://www.artstation.com/creative_ataraxia" rel='author' target='_blank'>ArtStation</a></h3>
 
 <br>
 <section id="threejs">
