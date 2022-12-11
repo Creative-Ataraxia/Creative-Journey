@@ -46,7 +46,7 @@
     <img src="https://creative-ataraxia.github.io/portfolio_medias/legacy_portfolio_site/screen_tinySized.png" width=35% height=35% alt="Legacy Portfolio">
   </a>
   <a href="https://creative-ataraxia.github.io/get_schwifty_portal/" rel='author' target='_blank'>
-    <img src="https://creative-ataraxia.github.io/portfolio_medias/threejsProjects/.png" width=35% height=35% alt="Rick's Portal">
+    <img src="https://creative-ataraxia.github.io/portfolio_medias/threejsProjects/portal.png" width=35% height=35% alt="Rick's Portal">
   </a>
   <a href="https://creative-ataraxia.github.io/cyberpunk-sphere/" rel='author' target='_blank'>
     <img src="https://creative-ataraxia.github.io/portfolio_medias/threejsProjects/livingSphere/livingSphere_1920x937_tinySized.png" width=35% height=35% alt="Living Sphere">
