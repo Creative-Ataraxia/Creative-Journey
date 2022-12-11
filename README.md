@@ -19,7 +19,7 @@
   <h2>Blender Projects</h2>
 </section>
 
-- <h3>Check out my portfolio on <a href="https://www.artstation.com/creative_ataraxia" rel='author' target='_blank'>ArtStation</a></h3>
+- <h3>Check out my blender portfolio on <a href="https://www.artstation.com/creative_ataraxia" rel='author' target='_blank'>ArtStation</a></h3>
 
 <br>
 <section id="threejs">
