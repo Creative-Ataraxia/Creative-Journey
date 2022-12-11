@@ -28,37 +28,34 @@
 
 <div style="display:flex;flex-direction:row;gap:1rem;">
   <a href="https://creative-ataraxia.github.io/" rel='author' target='_blank'>
-    <img src="https://creative-ataraxia.github.io/images/the-room.jpg" width=35% height=35% alt="Roy's Portfolio Room">
+    <img src="https://creative-ataraxia.github.io/portfolio_medias/threejsProjects/new-ar-room.png" width=35% height=35% alt="Roy's Portfolio Room">
   </a>
   <a href="https://creative-ataraxia.github.io/dddance/" rel='author' target='_blank'>
-    <img src="https://creative-ataraxia.github.io/images/dddance.png" width=35% height=35% alt="Dance! Lights!">
+    <img src="https://creative-ataraxia.github.io/portfolio_medias/threejsProjects/dddance/dddance_tinySized.png" width=35% height=35% alt="Dance! Lights!">
   </a>
   <a href="https://creative-ataraxia.github.io/vivid-landing-page/" rel='author' target='_blank'>
-    <img src="https://creative-ataraxia.github.io/images/vivid_landing_page.png" width=35% height=35% alt="Landing Page 1">
+    <img src="https://creative-ataraxia.github.io/portfolio_medias/threejsProjects/aLandingPage/aLandingPage_1920x937_tinySized.png" width=35% height=35% alt="Landing Page 1">
   </a>
   <a href="https://creative-ataraxia.github.io/meet-the-team-page/" rel='author' target='_blank'>
-    <img src="https://creative-ataraxia.github.io/images/meet-the-team-page.png" width=35% height=35% alt="Scroll UI">
+    <img src="https://creative-ataraxia.github.io/portfolio_medias/threejsProjects/scrollUI/scrollUI_tinySized.png" width=35% height=35% alt="Scroll UI">
   </a>
   <a href="https://creative-ataraxia.github.io/roy-portfolio-ception/" rel='author' target='_blank'>
-    <img src="https://creative-ataraxia.github.io/images/portfolio-ception.png" width=35% height=35% alt="Room with Laptop">
+    <img src="https://creative-ataraxia.github.io/portfolio_medias/threejsProjects/portfolioCeption/portfolioCeption_1920x937_tinySized.png" width=35% height=35% alt="Room with Laptop">
   </a>
   <a href="https://creative-ataraxia.github.io/legacy-portfolio-site/" rel='author' target='_blank'>
-    <img src="https://creative-ataraxia.github.io/images/legacy_portfolio.png" width=35% height=35% alt="Legacy Portfolio">
+    <img src="https://creative-ataraxia.github.io/portfolio_medias/threejsProjects/.png" width=35% height=35% alt="Legacy Portfolio">
   </a>
   <a href="https://creative-ataraxia.github.io/get_schwifty_portal/" rel='author' target='_blank'>
-    <img src="https://creative-ataraxia.github.io/images/portal.png" width=35% height=35% alt="Rick's Portal">
+    <img src="https://creative-ataraxia.github.io/portfolio_medias/threejsProjects/.png" width=35% height=35% alt="Rick's Portal">
   </a>
   <a href="https://creative-ataraxia.github.io/cyberpunk-sphere/" rel='author' target='_blank'>
-    <img src="https://creative-ataraxia.github.io/images/cyber_sphere.png" width=35% height=35% alt="Living Sphere">
+    <img src="https://creative-ataraxia.github.io/portfolio_medias/threejsProjects/livingSphere/livingSphere_1920x937_tinySized.png" width=35% height=35% alt="Living Sphere">
   </a>
   <a href="https://creative-ataraxia.github.io/sci-fi-gear-display/" rel='author' target='_blank'>
-    <img src="https://creative-ataraxia.github.io/images/helmet.png" width=35% height=35% alt="Lights and Shadows">
+    <img src="https://creative-ataraxia.github.io/portfolio_medias/threejsProjects/studyInLightsAndShadows/studyInLightsAndShadows_1920x937_tinySized.png" width=35% height=35% alt="Lights and Shadows">
   </a>
   <a href="https://creative-ataraxia.github.io/birds-over-sunset/" rel='author' target='_blank'>
-    <img src="https://creative-ataraxia.github.io/images/birds_over_sunset.png" width=35% height=35% alt="Birds over Sunset">
-  </a>
-  <a href="https://creative-ataraxia.github.io/" rel='author' target='_blank'>
-    <img src="https://creative-ataraxia.github.io/images/new_portfolio.png" width=35% height=35% alt="Scroll Portfolio">
+    <img src="https://creative-ataraxia.github.io/portfolio_medias/threejsProjects/birdsOverSunset/birdsOverSunset_1920x937_tinySized.png" width=35% height=35% alt="Birds over Sunset">
   </a>
 </div>
 
