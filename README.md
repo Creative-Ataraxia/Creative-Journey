@@ -43,7 +43,7 @@
     <img src="https://creative-ataraxia.github.io/portfolio_medias/threejsProjects/portfolioCeption/portfolioCeption_1920x937_tinySized.png" width=35% height=35% alt="Room with Laptop">
   </a>
   <a href="https://creative-ataraxia.github.io/legacy-portfolio-site/" rel='author' target='_blank'>
-    <img src="https://creative-ataraxia.github.io/portfolio_medias/threejsProjects/.png" width=35% height=35% alt="Legacy Portfolio">
+    <img src="https://creative-ataraxia.github.io/portfolio_medias/legacy_portfolio_site/screen_tinySized.png" width=35% height=35% alt="Legacy Portfolio">
   </a>
   <a href="https://creative-ataraxia.github.io/get_schwifty_portal/" rel='author' target='_blank'>
     <img src="https://creative-ataraxia.github.io/portfolio_medias/threejsProjects/.png" width=35% height=35% alt="Rick's Portal">
