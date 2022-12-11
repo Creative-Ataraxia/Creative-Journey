@@ -3,7 +3,7 @@
 
 - I have experience developing, maintaining dynamic and responsive webapps using React and Blender. I also have experience in collaborating with design teams to create engaging UIs that 'Pop!'. I'm always looking for ways to improve the performance and UX of the apps I work on.
 
-- In my free time, I enjoy integrating new techs into my stack, and staying at the cutting edge of the frontend and VFX industry. I am passionate about continuing to learn and grow as a React VFX Creative Dev, my dream is to create a full featured 'out of this world' VFX film one day.
+- In my free time, I enjoy integrating new techs into my stack, and staying at the cutting edge of the frontend and VFX industry. I am passionate about continuing to learn and grow as a React VFX Creative Dev, my dream is to create my own animated mini feature one day.
 
 #### human languages and math skills:
 -	Native fluency in English and Mandarin; conversational in Japanese
