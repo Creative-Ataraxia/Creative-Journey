@@ -1,9 +1,13 @@
-# Hi there👋! I'm Roy, React Creative Developer; nice to meet you!👋
-- I use Blender to create VFX assets/visuals and React/Threejs to develop them into engaging 3D experiences. My main techs: <i>Blender, React, R3F, Threejs</i>; Base stack: <i>Typescript, Next, Express</i>; Check out my [3D showroom](https://creative-ataraxia.github.io) and my <a href="#lab">lab projects</a>🛠;
+# Hi there👋! I'm Roy, React/Blender Creative Developer; nice to meet you!👋
 
-- I have experience developing, maintaining dynamic and responsive webapps using React and Blender. I also have experience in collaborating with design teams to create engaging UIs that 'Pop!'. I'm always looking for ways to improve the performance and UX of the apps I work on.
+- ArtStation Portfolio: [https://www.artstation.com/creative_ataraxia]
+- WebGL Profolio Site: [https://creative-ataraxia.github.io]
 
-- In my free time, I enjoy integrating new techs into my stack, and staying at the cutting edge of the frontend and VFX industry. I am passionate about continuing to learn and grow as a React VFX Creative Dev, my dream is to create my own animated mini feature one day.
+- I create 3D experiences using blender and webGL; Recently I've been more focused on Blender, specifically, Enviroment Design (Compositing & Lighting), Animations (Both Scenes & Characters Rigging), Hard Surface Modeling and Look Development.
+
+- I have a background in Frontend Development; I am proficient in Javascript, Typescript, React, Threejs and R3F; I also know Python;
+
+- I have a passion to stay at the cutting edge of the industry, and continuing to learn and grow as a React/Blender Creative Developer.
 
 #### human languages and math skills:
 -	Native fluency in English and Mandarin; conversational in Japanese
