@@ -32,7 +32,7 @@
 
 <div style="display:flex;flex-direction:row;gap:1rem;">
   <a href="https://creative-ataraxia.github.io/" rel='author' target='_blank'>
-    <img src="https://creative-ataraxia.github.io/portfolio_medias/threejsProjects/new-ar-room.png" width=35% height=35% alt="Roy's Portfolio Room">
+    <img src="https://creative-ataraxia.github.io/portfolio_medias/new-ar-room.png" width=35% height=35% alt="Roy's Portfolio Room">
   </a>
   <a href="https://creative-ataraxia.github.io/dddance/" rel='author' target='_blank'>
     <img src="https://creative-ataraxia.github.io/portfolio_medias/threejsProjects/dddance/dddance_tinySized.png" width=35% height=35% alt="Dance! Lights!">
