@@ -1,4 +1,5 @@
-# Hi there👋! I'm Roy, React/Blender Creative Developer; nice to meet you!👋
+# Hi there👋! I'm Roy, React/Blender Creative Developer; 
+## nice to meet you!👋
 
 - ArtStation Portfolio: https://www.artstation.com/creative_ataraxia
 - WebGL Profolio Site: https://creative-ataraxia.github.io
