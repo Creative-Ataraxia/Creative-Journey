@@ -1,7 +1,7 @@
 # Hi there👋! I'm Roy, React/Blender Creative Developer; nice to meet you!👋
 
-- ArtStation Portfolio: [https://www.artstation.com/creative_ataraxia]
-- WebGL Profolio Site: [https://creative-ataraxia.github.io]
+- ArtStation Portfolio: https://www.artstation.com/creative_ataraxia
+- WebGL Profolio Site: https://creative-ataraxia.github.io
 
 - I create 3D experiences using blender and webGL; Recently I've been more focused on Blender, specifically, Enviroment Design (Compositing & Lighting), Animations (Both Scenes & Characters Rigging), Hard Surface Modeling and Look Development.
 
