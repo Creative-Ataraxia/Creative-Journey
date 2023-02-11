@@ -1,16 +1,33 @@
-# I'm Roy, React/Blender Creative Developer; nice to meet you!👋
+# I'm Roy, 3D Artist / React WebGL Developer, nice to meet you!👋
 
-- [Feb 8th, 2023] Currently captivated by Generative Art, full diving...
+- I create 3D visuals and render them via WebGL in the browser
+
+- [Feb 8th, 2023] Current obsession: Blender / Stable Diffusion / After Effects AI-textured Animations workflow
 
 - WebGL Profolio Site: https://creative-ataraxia.github.io
 
-- I create 3D experiences using blender and webGL; Recently I've been more focused on Blender, specifically, Enviroment Design (Compositing & Lighting), Animations (Both Scenes & Characters Rigging), Hard Surface Modeling and Look Development. Check out my [ArtStation Portfolio](https://www.artstation.com/creative_ataraxia)
+- 3D visuals portfolio: https://www.artstation.com/creative_ataraxia
 
-- I have a background in Frontend Development; I am proficient in Javascript, Typescript, React, Threejs and R3F; I also know Python;
+<ul>
+    <li>My <b>Techs 🛠:</b>
+        <ul><i>
+            <li>3D: Blender, Substance Painter, Photoshop, After Effects</li>
+            <li>AI: Stable Diffusion</li>
+            <li>WebGL: Threejs, R3F</li>
+            <li>Frontend: React, Typescript</li>
+        </i></ul>
+    </li>
+    <br/>
+    <li>Human languages🎙:
+        <ul>
+            <li>Native fluency in English and Mandarin</li>
+            <li>Conversational in Japanese</li>
+            <li>FINRA 63, 82, CFA lv2</li>
+        </ul>
+    </li>
+</ul>
 
-- I have a passion to stay at the cutting edge of the industry, and continuing to learn and grow as a React/Blender Creative Developer.
-
-#### human languages and math skills:
+#### Human languages:
 -	Native fluency in English and Mandarin; conversational in Japanese
 -	FINRA 63, 82, CFA lv2 license holder.
 
