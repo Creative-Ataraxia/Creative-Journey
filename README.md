@@ -27,9 +27,6 @@
     </li>
 </ul>
 
-#### Human languages:
--	Native fluency in English and Mandarin; conversational in Japanese
--	FINRA 63, 82, CFA lv2 license holder.
 
 <a href="https://creative-ataraxia.github.io/images/social/ROY_MA_Resume_2022_thanksgiving_edition.pdf" rel='author' target='_blank'>📃resume</a>
 <a href="https://leetcode.cn/u/roy_m/" rel='author' target='_blank'>👨‍💻LeetCode.cn</a>
@@ -41,11 +38,11 @@
   <h2>Blender Projects</h2>
 </section>
 
-- <h3>Check out my blender portfolio on <a href="https://www.artstation.com/creative_ataraxia" rel='author' target='_blank'>ArtStation</a></h3>
+- <h3>Check out my current art on <a href="https://www.artstation.com/creative_ataraxia" rel='author' target='_blank'>ArtStation</a></h3>
 
 <br>
 <section id="threejs">
-  <h2>Threejs Projects</h2>
+  <h2>Older WebGL Projects</h2>
 </section>
 
 <div style="display:flex;flex-direction:row;gap:1rem;">
