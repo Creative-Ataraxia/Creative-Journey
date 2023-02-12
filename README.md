@@ -11,7 +11,7 @@
 <ul>
     <li>My <b>Techs 🛠:</b>
         <ul><i>
-            <li>3D: Blender, Substance Painter, Photoshop, After Effects</li>
+            <li>3D: Blender, Substance Painter, DaVinci Resolve, Photoshop</li>
             <li>AI: Stable Diffusion</li>
             <li>WebGL: Threejs, R3F</li>
             <li>Frontend: React, Typescript</li>
