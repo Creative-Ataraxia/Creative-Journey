@@ -1,4 +1,4 @@
-# I'm Roy, 3D Artist / React WebGL Developer, nice to meet you!👋
+# I'm Roy, 3D Visual Artist / React WebGL Developer, nice to meet you!👋
 
 - I create 3D visuals and render them via WebGL in the browser
 
