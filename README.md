@@ -1,17 +1,14 @@
-# I'm Roy, 3D Visual Artist / React WebGL Developer, nice to meet you!👋
+# I'm Roy, 3D Artist, Unreal Engine, Blender, React WebGL Developer, nice to meet you!👋
 
-- I create 3D visuals and render them via WebGL in the browser
 
-- [Feb 8th, 2023] Current obsession: Blender / Stable Diffusion / After Effects AI-textured Animations workflow
-
-- WebGL Profolio Site: https://creative-ataraxia.github.io
-
-- 3D visuals portfolio: https://www.artstation.com/creative_ataraxia
+- 3D portfolio: https://www.artstation.com/creative_ataraxia
+- Github Profile: https://github.com/Creative-Ataraxia/Creative-Journey
+- WebGL profolio site: https://creative-ataraxia.github.io
 
 <ul>
     <li>My <b>Techs 🛠:</b>
         <ul><i>
-            <li>3D: Blender, Substance Painter, DaVinci Resolve, Photoshop</li>
+            <li>Graphics: Unreal Engine, Blender, Substance Painter, DaVinci Resolve, Photoshop</li>
             <li>AI: Stable Diffusion</li>
             <li>WebGL: Threejs, R3F</li>
             <li>Frontend: React, Typescript</li>
