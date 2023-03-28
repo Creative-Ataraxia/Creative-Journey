@@ -1,42 +1,40 @@
-# I'm Roy, 3D Artist, Unreal Engine, Blender, React WebGL Developer, nice to meet you!👋
+## I'm Roy, 3D Artist, Unreal Engine, Blender, WebGL Developer, nice to meet you!👋
 
 
-- 3D portfolio: https://www.artstation.com/creative_ataraxia
-- Github Profile: https://github.com/Creative-Ataraxia/Creative-Journey
-- WebGL profolio site: https://creative-ataraxia.github.io
+Works portfolio on [ArtStation](https://creative_ataraxia.artstation.com/);
+WebGL Demo on [Github](https://creative-ataraxia.github.io)
 
 <ul>
-    <li>My <b>Techs 🛠:</b>
+    <li><b>Skills</b>
         <ul><i>
-            <li>Graphics: Unreal Engine, Blender, Substance Painter, DaVinci Resolve, Photoshop</li>
-            <li>AI: Stable Diffusion</li>
-            <li>WebGL: Threejs, R3F</li>
-            <li>Frontend: React, Typescript</li>
+<li>Concepting: Utilizing Generative AI pipelines to enhance art conception workflow by at least 10x, resulting in faster and more efficient production cycles. Collaborating with art directors to deliver high-quality concepts that meet project requirements and exceed expectations.</li>
+<li>Modeling: Proficient in both low and high poly count hard surface modeling using Blender. Skilled in creating realistic character sculpts using ZBrush, resulting in highly detailed and visually stunning 3D assets.</li>
+<li>Texturing: Experienced in constructing and refining PBR materials using Substance Painter and Quixel Mixer. Applying advanced techniques to achieve photorealistic renders and enhance the overall quality of 3D assets and props.</li>
+<li>Rigging & Animation: Skilled in rigging complex characters and animating motion tracks with Blender, Unreal Engine, and Mixamo. Delivering cinematic-quality animations that bring 3D assets to life.</li>
+<li>Lighting: Designed and implemented complete lighting setups that enhance the overall atmosphere and immersion of 3D environments. Leveraging expertise in Blender and Unreal Engine to create stunning visuals that meet project requirements.</li>
+<li>Rendering: Optimized rendering and baking for targeted platforms to deliver faster load times and improved performances. Utilized Unreal Engine's advanced rendering capabilities to achieve high-quality visual results.</li>
+<li>Compositing: Utilized Davinci Resolve and Affinity Photo to composite, layer, transition, and implement other VFXs to add polish and professionalism to final deliveries.</li>
+<li>Color Grading: Expertly color corrected and fine-tuned visuals to achieve cohesive and polished final products that meet and exceed project expectations. Leveraging expertise in Davinci Resolve, Affinity Photo, and Photoshop to achieve desired results.</li>
         </i></ul>
     </li>
     <br/>
-    <li>Human languages🎙:
+    <li>Info:
         <ul>
-            <li>Native fluency in English and Mandarin</li>
-            <li>Conversational in Japanese</li>
-            <li>FINRA 63, 82, CFA lv2</li>
+            <li>Native speaker of English and Mandarin; conversational in Japanese.</li>
+            <li>Bachelor of Arts from the University of Maryland.</li>
+            <li>5 years of experience in frontend development with a focus on WebGL using Typescript, React, Threejs, and R3F.</li>
+            <li>Professional license holder in the finance industry with Series 62, 83, and CFA Level 2 certifications.</li>
         </ul>
     </li>
 </ul>
 
 
-<a href="https://creative-ataraxia.github.io/images/social/ROY_MA_Resume_2022_thanksgiving_edition.pdf" rel='author' target='_blank'>📃resume</a>
+<a href="https://flowcv.com/resume/993n2rn56j" rel='author' target='_blank'>📃resume</a>
 <a href="https://leetcode.cn/u/roy_m/" rel='author' target='_blank'>👨‍💻LeetCode.cn</a>
 <a href="https://leetcode.com/Roy_M/" rel='author' target='_blank'>👨‍💻LeetCode.com</a>
 <br>
 <br>
 <section id="lab"></section>
-<section id="blender">
-  <h2>Blender Projects</h2>
-</section>
-
-- <h3>Check out my current art projects on <a href="https://www.artstation.com/creative_ataraxia" rel='author' target='_blank'>ArtStation</a></h3>
-
 <br>
 <section id="threejs">
   <h2>Older WebGL Projects</h2>
