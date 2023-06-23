@@ -1,78 +1,54 @@
-## I'm Roy, 3D Artist, Unreal Engine, Blender, WebGL Developer, nice to meet you!👋
+## Profile Summary
+Full-stack Developer with 5+ years of expertise in architecting and deploying robust, scalable web applications. Proficient with modern technologies including Python, TypeScript, React, Next.js, Node.js, and various database systems. Able to 10x learning and integrating new technologies into production. Experience in designing immersive 3D experiences and AI-powered applications. Proven track record in frontend and backend development, complimented by independent problem-solving skills and a passion for continuous learning. Native fluency in English and Chinese.
 
+## Technical Skills
+- **Languages:** Python, JavaScript, TypeScript
+- **Frontend:** React, Vue.js, WebGL, A-Frame, Next.js, Nuxt.js, React Native, Tailwind for styling, Jest and Playwright for testing
+- **Backend:** Node.js, Redis, MongoDB, PostgreSQL, Firebase, AWS (SES, EC2 VPC, S3)
+- **Data Engineering:** ETL processes, ACID transactions, ORMs, caching, and encryption
+- **Design Patterns and Principles:** TDD, CQRS, SOA, serverless, and monolithic architectures
+- **Scaling and Monitoring:** Nginx, GraphQL, Kubernetes, load shifting, throttling, circuit breaking etc.
+- **3D Design:** Game-ready 3D assets using Blender, 3D scenes using Unreal Engine, proficient with entire pipeline; other DCCs: Photoshop, DaVinci Resolve, Substance Designer
+- **DevOps:** CI/CD pipelines using Github Actions, Ansible
+- **Version Control:** Proficient with Git
 
-Works portfolio on [ArtStation](https://creative_ataraxia.artstation.com/);
-WebGL Demo on [Github](https://creative-ataraxia.github.io)
+## Professional Experience
 
-<ul>
-    <li><b>Skills</b>
-        <ul><i>
-<li>Concepting: Utilizing Generative AI pipelines to enhance art conception workflow by at least 10x, resulting in faster and more efficient production cycles. Collaborating with art directors to deliver high-quality concepts that meet project requirements and exceed expectations.</li>
-<li>Modeling: Proficient in both low and high poly count hard surface modeling using Blender. Skilled in creating realistic character sculpts using ZBrush, resulting in highly detailed and visually stunning 3D assets.</li>
-<li>Texturing: Experienced in constructing and refining PBR materials using Substance Painter and Quixel Mixer. Applying advanced techniques to achieve photorealistic renders and enhance the overall quality of 3D assets and props.</li>
-<li>Rigging & Animation: Skilled in rigging complex characters and animating motion tracks with Blender, Unreal Engine, and Mixamo. Delivering cinematic-quality animations that bring 3D assets to life.</li>
-<li>Lighting: Designed and implemented complete lighting setups that enhance the overall atmosphere and immersion of 3D environments. Leveraging expertise in Blender and Unreal Engine to create stunning visuals that meet project requirements.</li>
-<li>Rendering: Optimized rendering and baking for targeted platforms to deliver faster load times and improved performances. Utilized Unreal Engine's advanced rendering capabilities to achieve high-quality visual results.</li>
-<li>Compositing: Utilized Davinci Resolve and Affinity Photo to composite, layer, transition, and implement other VFXs to add polish and professionalism to final deliveries.</li>
-<li>Color Grading: Expertly color corrected and fine-tuned visuals to achieve cohesive and polished final products that meet and exceed project expectations. Leveraging expertise in Davinci Resolve, Affinity Photo, and Photoshop to achieve desired results.</li>
-        </i></ul>
-    </li>
-    <br/>
-    <li>Info:
-        <ul>
-            <li>Native speaker of English and Mandarin; conversational in Japanese.</li>
-            <li>Bachelor of Arts from the University of Maryland.</li>
-            <li>5 years of experience in frontend development with a focus on WebGL using Typescript, React, Threejs, and R3F.</li>
-            <li>Professional license holder in the finance industry with Series 62, 83, and CFA Level 2 certifications.</li>
-        </ul>
-    </li>
-</ul>
+### Independent Software Developer, Freelancer | 2019 - present
+- Developed and maintained full-stack applications, progressive web apps, static websites, game development projects, and 3D asset designs.
+- Contributed to several open-source projects focusing on frontend development and WebGL technologies.
+- Independently developed apps from zero to deployment.
 
+### Director of Business Development, Cleveland International Fund | 2017 - 2019
+- Drove fundraising efforts, asset management, and due diligence processes while managing a diverse investor portfolio.
+- Led team to develop and execute strategic business development initiatives.
 
-<a href="https://flowcv.com/resume/993n2rn56j" rel='author' target='_blank'>📃resume</a>
-<a href="https://leetcode.cn/u/roy_m/" rel='author' target='_blank'>👨‍💻LeetCode.cn</a>
-<a href="https://leetcode.com/Roy_M/" rel='author' target='_blank'>👨‍💻LeetCode.com</a>
-<br>
-<br>
-<section id="lab"></section>
-<br>
-<section id="threejs">
-  <h2>Older WebGL Projects</h2>
-</section>
+### Head Of International Department, MultiBank Group | 2016 - 2017
+- Supervised a sales team of 25, managed investors, and devised effective trading strategies.
+- Demonstrated proficiency in managing high-value trades and investor relationships.
 
-<div style="display:flex;flex-direction:row;gap:1rem;">
-  <a href="https://creative-ataraxia.github.io/" rel='author' target='_blank'>
-    <img src="https://creative-ataraxia.github.io/portfolio_medias/new-ar-room.png" width=35% height=35% alt="Roy's Portfolio Room">
-  </a>
-  <a href="https://creative-ataraxia.github.io/dddance/" rel='author' target='_blank'>
-    <img src="https://creative-ataraxia.github.io/portfolio_medias/threejsProjects/dddance/dddance_tinySized.png" width=35% height=35% alt="Dance! Lights!">
-  </a>
-  <a href="https://creative-ataraxia.github.io/vivid-landing-page/" rel='author' target='_blank'>
-    <img src="https://creative-ataraxia.github.io/portfolio_medias/threejsProjects/aLandingPage/aLandingPage_1920x937_tinySized.png" width=35% height=35% alt="Landing Page 1">
-  </a>
-  <a href="https://creative-ataraxia.github.io/meet-the-team-page/" rel='author' target='_blank'>
-    <img src="https://creative-ataraxia.github.io/portfolio_medias/threejsProjects/scrollUI/scrollUI_tinySized.png" width=35% height=35% alt="Scroll UI">
-  </a>
-  <a href="https://creative-ataraxia.github.io/roy-portfolio-ception/" rel='author' target='_blank'>
-    <img src="https://creative-ataraxia.github.io/portfolio_medias/threejsProjects/portfolioCeption/portfolioCeption_1920x937_tinySized.png" width=35% height=35% alt="Room with Laptop">
-  </a>
-  <a href="https://creative-ataraxia.github.io/legacy-portfolio-site/" rel='author' target='_blank'>
-    <img src="https://creative-ataraxia.github.io/portfolio_medias/legacy_portfolio_site/screen_tinySized.png" width=35% height=35% alt="Legacy Portfolio">
-  </a>
-  <a href="https://creative-ataraxia.github.io/get_schwifty_portal/" rel='author' target='_blank'>
-    <img src="https://creative-ataraxia.github.io/portfolio_medias/threejsProjects/portal.png" width=35% height=35% alt="Rick's Portal">
-  </a>
-  <a href="https://creative-ataraxia.github.io/cyberpunk-sphere/" rel='author' target='_blank'>
-    <img src="https://creative-ataraxia.github.io/portfolio_medias/threejsProjects/livingSphere/livingSphere_1920x937_tinySized.png" width=35% height=35% alt="Living Sphere">
-  </a>
-  <a href="https://creative-ataraxia.github.io/sci-fi-gear-display/" rel='author' target='_blank'>
-    <img src="https://creative-ataraxia.github.io/portfolio_medias/threejsProjects/studyInLightsAndShadows/studyInLightsAndShadows_1920x937_tinySized.png" width=35% height=35% alt="Lights and Shadows">
-  </a>
-  <a href="https://creative-ataraxia.github.io/birds-over-sunset/" rel='author' target='_blank'>
-    <img src="https://creative-ataraxia.github.io/portfolio_medias/threejsProjects/birdsOverSunset/birdsOverSunset_1920x937_tinySized.png" width=35% height=35% alt="Birds over Sunset">
-  </a>
-</div>
+### Director (China), Great Texas Fund | 2010 - 2016
+- Directed fundraising efforts, asset management, and due diligence processes for the China division.
+- Managed investor relationships and coordinated multi-disciplinary teams for maximum efficiency.
 
-<!---
-unique_counter: 274
---->
+### Para Legal, Kalik & Lewin | 2008 - 2010
+- Facilitated communication between US government entities, clients, and stakeholders.
+- Assisted partner lawyer in managing legal cases and client relationships.
+
+## Projects
+
+- **Datavis** - Webapp that re-imagines insight acquisition from data in the XR era. This app enables users to gain insights faster by algorithmically synergizing their data with AI-analysis and visualizing them in VR. The UX should align with your firm's data analysis needs for investment decision-making process. Written in React + Threejs. [Project Link](https://datavis-one.vercel.app)
+
+- **Multi Chat UI** - A modularized, optimized and extendable chatbot UI with a collection of curated and engineered prompts for a fun UX. This app is adaptable and can be extended as the frontend for any smart service endpoints. Written in React + Next.js. [Project Link](chatbot-compilation.vercel.app)
+
+- **Philosophy Chat** - This chatbot is a deep conversation-capable language model embedded with over 250k pages of philosophical texts. With the capability to provide academic sources. The workflow can be extended to any local data and run locally via open-sourced checkpoints. Written in Python + Streamlit. [Project Link](https://philosophy-chat.streamlit.app)
+
+- **3D Gallery** - A navigable 1st-person 3D room written using React and Threejs. The project demonstrates the application of 3D technologies in web development, potentially serving as an immersive data presentation tool for any industry. [Project Link](https://creative-ataraxia.github.io)
+
+- **Art Portfolio** - Personal portfolio of 3D experiences and scenes using Unreal Engine, Blender, and other DCCs. This portfolio demonstrates the capability of the full 3D production pipeline. [Project Link](https://creative_ataraxia.artstation.com)
+
+## Education
+Bachelor of Economics, University of Maryland, Baltimore County
+
+## Languages
+English (Native), Chinese (Native), Japanese (Conversational)
