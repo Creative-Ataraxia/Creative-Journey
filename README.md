@@ -1,39 +1,4 @@
-## Profile Summary
-Full-stack Developer with 5+ years of expertise in architecting and deploying robust, scalable web applications. Proficient with modern technologies including Python, TypeScript, React, Next.js, Node.js, and various database systems. Able to 10x learning and integrating new technologies into production. Experience in designing immersive 3D experiences and AI-powered applications. Proven track record in frontend and backend development, complimented by independent problem-solving skills and a passion for continuous learning. Native fluency in English and Chinese.
-
-## Technical Skills
-- **Languages:** Python, JavaScript, TypeScript
-- **Frontend:** React, Vue.js, WebGL, A-Frame, Next.js, Nuxt.js, React Native, Tailwind for styling, Jest and Playwright for testing
-- **Backend:** Node.js, Redis, MongoDB, PostgreSQL, Firebase, AWS (SES, EC2 VPC, S3)
-- **Data Engineering:** ETL processes, ACID transactions, ORMs, caching, and encryption
-- **Design Patterns and Principles:** TDD, CQRS, SOA, serverless, and monolithic architectures
-- **Scaling and Monitoring:** Nginx, GraphQL, Kubernetes, load shifting, throttling, circuit breaking etc.
-- **3D Design:** Game-ready 3D assets using Blender, 3D scenes using Unreal Engine, proficient with entire pipeline; other DCCs: Photoshop, DaVinci Resolve, Substance Designer
-- **DevOps:** CI/CD pipelines using Github Actions, Ansible
-- **Version Control:** Proficient with Git
-
-## Professional Experience
-
-### Independent Software Developer, Freelancer | 2019 - present
-- Developed and maintained full-stack applications, progressive web apps, static websites, game development projects, and 3D asset designs.
-- Contributed to several open-source projects focusing on frontend development and WebGL technologies.
-- Independently developed apps from zero to deployment.
-
-### Director of Business Development, Cleveland International Fund | 2017 - 2019
-- Drove fundraising efforts, asset management, and due diligence processes while managing a diverse investor portfolio.
-- Led team to develop and execute strategic business development initiatives.
-
-### Head Of International Department, MultiBank Group | 2016 - 2017
-- Supervised a sales team of 25, managed investors, and devised effective trading strategies.
-- Demonstrated proficiency in managing high-value trades and investor relationships.
-
-### Director (China), Great Texas Fund | 2010 - 2016
-- Directed fundraising efforts, asset management, and due diligence processes for the China division.
-- Managed investor relationships and coordinated multi-disciplinary teams for maximum efficiency.
-
-### Para Legal, Kalik & Lewin | 2008 - 2010
-- Facilitated communication between US government entities, clients, and stakeholders.
-- Assisted partner lawyer in managing legal cases and client relationships.
+## Design! Frontend! Backend! DB all by myself. Coding up all sorts of fun AI projects!
 
 ## Projects
 
