@@ -11,9 +11,3 @@
 - **3D Gallery** - A navigable 1st-person 3D room written using React and Threejs. The project demonstrates the application of 3D technologies in web development, potentially serving as an immersive data presentation tool for any industry. [Project Link](https://creative-ataraxia.github.io)
 
 - **Art Portfolio** - Personal portfolio of 3D experiences and scenes using Unreal Engine, Blender, and other DCCs. This portfolio demonstrates the capability of the full 3D production pipeline. [Project Link](https://creative_ataraxia.artstation.com)
-
-## Education
-Bachelor of Economics, University of Maryland, Baltimore County
-
-## Languages
-English (Native), Chinese (Native), Japanese (Conversational)
