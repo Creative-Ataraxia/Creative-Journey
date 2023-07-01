@@ -1,4 +1,4 @@
-## Design! Frontend! Backend! DB all by myself. Coding up all sorts of fun AI projects!
+## Coding up all sorts of fun AI projects!
 
 ## Projects
 
