@@ -4,7 +4,7 @@
 
 - **Datavis** - Webapp that re-imagines insight acquisition from data in the XR era. This app enables users to gain insights faster by algorithmically synergizing their data with AI-analysis and visualizing them in VR. The UX should align with your firm's data analysis needs for investment decision-making process. Written in React + Threejs. [Project Link](https://datavis-one.vercel.app)
 
-- **Multi Chat UI** - A modularized, optimized and extendable chatbot UI with a collection of curated and engineered prompts for a fun UX. This app is adaptable and can be extended as the frontend for any smart service endpoints. Written in React + Next.js. [Project Link](chatbot-compilation.vercel.app)
+- **Multi Chat UI** - A modularized, optimized and extendable chatbot UI with a collection of curated and engineered prompts for a fun UX. This app is adaptable and can be extended as the frontend for any smart service endpoints. Written in React + Next.js. Current UI only in Chinese. [Project Link](chatbot-compilation.vercel.app)
 
 - **Philosophy Chat** - This chatbot is a deep conversation-capable language model embedded with over 250k pages of philosophical texts. With the capability to provide academic sources. The workflow can be extended to any local data and run locally via open-sourced checkpoints. Written in Python + Streamlit. [Project Link](https://philosophy-chat.streamlit.app)
 
